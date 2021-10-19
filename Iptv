@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg- group-title="Sports",BAN VS OMA
-https://prod-fastly-ap-southeast-1.video.pscp.tv/Transcoding/v1/hls/W1MeV-h0TzJGh8WHBU6pl91QGqzKDhqKX0nhYMOCPBiLvIa9WTW5RRfM-wziNwGFvmnL1EY4HMbt2kgUuvecmQ/transcode/ap-southeast-1/periscope-replay-direct-live/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8?type=live
+https://prod-fastly-ap-southeast-1.video.pscp.tv/Transcoding/v1/hls/W1MeV-h0TzJGh8WHBU6pl91QGqzKDhqKX0nhYMOCPBiLvIa9WTW5RRfM-wziNwGFvmnL1EY4HMbt2kgUuvecmQ/transcode/ap-southeast-1/periscope-replay-direct-live/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8
 #EXTINF:-1 tvg- group-title="Sports",GTV
 http://shark2.dyndns.tv:5808/bd-gazi/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg- group-title="Sports",Ptv Sports
@@ -9,7 +9,7 @@ http://221.120.204.4/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8
 https://edge01.iptv.digijadoo.net/live/gazi_tv/chunks.m3u8?expires=1634683416&md5=CrNtEJFwkDeW4IfkTGSa-Q&user=ef3b0701f26743a4a12ce79435bc6d0d
 #EXTINF:-1 tvg- group-title="Sports",T sports
 https://edge01.iptv.digijadoo.net/live/t_sports/chunks.m3u8?expires=1634682932&md5=yBDAUVt_37IYHcej8vMLAA&user=ef3b0701f26743a4a12ce79435bc6d0d
-#EXTINF:-1 tvg- group-title="Sports",Ten Sports
-https://faylab.com/tv/starshare/serve/customtv.m3u8?token=Nayeemparvez
 #EXTINF:-1 tvg- group-title="Sports",Daraz Live
 http://pull-drzlive.daraz.com/peacock/f3ed066e-87fa-4ea0-add7-beaafa0fa000_liveng-360p-hp.m3u8?auth_key=1636715341-0-0-9da890d8dccaebbc19da9513ec2fed50&flag=new_logic
+EXTINF:-1 tvg- group-title="Sports",Astro Cricket
+http://nwbz1u.ecm.tm/806B6CF/84137e/SK_MA_ASTRO_SUPER_SPORT_CRICKET/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c3be801782c27ff83d6c3d8086796083c9e4eae0718a96e35a78db35fc417891f79725c21b88b1da11a64ac33705b66d7f50ff103affd5a58ef48256855a8ba8eae22ac6594c65d6bb7c33e329027c7364d6cc809fa887c8464d715b237c7e50e07a64eff32421d00c4de17b8b06ce5
