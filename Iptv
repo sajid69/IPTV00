@@ -1,11 +1,11 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="content://com.android.chrome.FileProvider/images/screenshot/16345672299691204383697.jpg" group-title="Sports",IND VS ENG
-https://prod-fastly-ap-southeast-1.video.pscp.tv/Transcoding/v1/hls/W1MeV-h0TzJGh8WHBU6pl91QGqzKDhqKX0nhYMOCPBiLvIa9WTW5RRfM-wziNwGFvmnL1EY4HMbt2kgUuvecmQ/non_transcode/us-west-2/periscope-replay-direct-live/master_dynamic_highlatency.m3u8?type=live
-#EXTINF:-1 tvg-logo="content://com.android.chrome.FileProvider/images/screenshot/16345672299691204383697.jpg" group-title="Sports",SRI VS NAM
+#EXTINF:-1 tvg-logo="content://com.android.chrome.FileProvider/images/screenshot/16345672299691204383697.jpg" group-title="Sports",BAN VS OMA(HINDI)
 https://prod-fastly-ap-southeast-1.video.pscp.tv/Transcoding/v1/hls/VSLaV2YrEk39lJsYXaCLXxBiYoI2MxcA8ae_xRn4A54mquhqfZfuzdooHdEw58BUDT2ocy61LsWCLdclbwqtVw/transcode/ap-southeast-1/periscope-replay-direct-live/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18xMDgwcDMwXzEwIiwiSGVpZ2h0IjoxMDgwLCJLYnBzIjo1NTAwLCJXaWR0aCI6MTkyMH0.OImMZabKYJ0cs9CnIapU-4aBk6KNBiJxi1hh-6l4BZ4/dynamic_highlatency.m3u8?type=live
-#EXTINF:-1 tvg-logo="content://com.android.chrome.FileProvider/images/screenshot/16345672299691204383697.jpg" group-title="Sports",NZ VS AUS
-https://prod-fastly-ap-southeast-1.video.pscp.tv/Transcoding/v1/hls/4iL7DN2OsPGF1xEWTvW3rX6tQuOqPePWXSH0GgTshiSuQt2jHJSGkoyPLkpqcJRjCg6o_oNOKWdpb-fHQgPvyQ/transcode/ap-southeast-1/periscope-replay-direct-live/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18xMDgwcDMwXzEwIiwiSGVpZ2h0IjoxMDgwLCJLYnBzIjo1NTAwLCJXaWR0aCI6MTkyMH0.OImMZabKYJ0cs9CnIapU-4aBk6KNBiJxi1hh-6l4BZ4/dynamic_highlatency.m3u8?type=live
 #EXTINF:-1 tvg- group-title="Sports",GTV
 http://shark2.dyndns.tv:5808/bd-gazi/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg- group-title="Sports",Ptv Sports
 http://221.120.204.4/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg- group-title="Sports"GTV
+https://edge01.iptv.digijadoo.net/live/gazi_tv/chunks.m3u8?expires=1634683416&md5=CrNtEJFwkDeW4IfkTGSa-Q&user=ef3b0701f26743a4a12ce79435bc6d0d
+#EXTINF:-1 tvg- group-title="Sports"T sports
+https://edge01.iptv.digijadoo.net/live/t_sports/chunks.m3u8?expires=1634682932&md5=yBDAUVt_37IYHcej8vMLAA&user=ef3b0701f26743a4a12ce79435bc6d0d
