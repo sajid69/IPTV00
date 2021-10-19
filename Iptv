@@ -9,3 +9,6 @@ http://221.120.204.4/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8
 https://edge01.iptv.digijadoo.net/live/gazi_tv/chunks.m3u8?expires=1634683416&md5=CrNtEJFwkDeW4IfkTGSa-Q&user=ef3b0701f26743a4a12ce79435bc6d0d
 #EXTINF:-1 tvg- group-title="Sports"T sports
 https://edge01.iptv.digijadoo.net/live/t_sports/chunks.m3u8?expires=1634682932&md5=yBDAUVt_37IYHcej8vMLAA&user=ef3b0701f26743a4a12ce79435bc6d0d
+#EXTINF:-1 tvg- group-title="Sports"Ten Sports
+https://faylab.com/tv/starshare/serve/customtv.m3u8
+
