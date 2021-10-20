@@ -1,8 +1,8 @@
 #EXTM3U
-#EXTINF:-1 tvg- group-title="Sports",BAN VS OMA(Eng)
-https://prod-fastly-ap-southeast-1.video.pscp.tv/Transcoding/v1/hls/W1MeV-h0TzJGh8WHBU6pl91QGqzKDhqKX0nhYMOCPBiLvIa9WTW5RRfM-wziNwGFvmnL1EY4HMbt2kgUuvecmQ/transcode/ap-southeast-1/periscope-replay-direct-live/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8
-#EXTINF:-1 tvg- group-title="Sports",BAN VS OMA(Hin)
-https://prod-fastly-ap-southeast-1.video.pscp.tv/Transcoding/v1/hls/VSLaV2YrEk39lJsYXaCLXxBiYoI2MxcA8ae_xRn4A54mquhqfZfuzdooHdEw58BUDT2ocy61LsWCLdclbwqtVw/transcode/ap-southeast-1/periscope-replay-direct-live/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8
+#EXTINF:-1 tvg- group-title="Sports",WARM UP 1
+https://prod-fastly-ap-southeast-1.video.pscp.tv/Transcoding/v1/hls/sJOkgo2iPgTcc4t48HJd0n8aU2omdzdk5l7utX5Swu6SSs1qQzhq9ngIiiNQhs6aYI1SbyqrNcD18CyOtW8jTQ/non_transcode/us-west-2/periscope-replay-direct-live/master_dynamic_highlatency.m3u8?type=live
+#EXTINF:-1 tvg- group-title="Sports",WARM UP 2
+https://1ojy.short.gy/Nayeem-Parvez/T20-WORLD-CUP/ENG-vs-NZ.m3u8
 #EXTINF:-1 tvg- group-title="Sports",GTV
 http://shark2.dyndns.tv:5808/bd-gazi/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg- group-title="Sports",GTV
