@@ -14,3 +14,5 @@ http://pull-drzlive.daraz.com/peacock/f3ed066e-87fa-4ea0-add7-beaafa0fa000_liven
 https://prod-fastly-ap-southeast-1.video.pscp.tv/Transcoding/v1/hls/VSLaV2YrEk39lJsYXaCLXxBiYoI2MxcA8ae_xRn4A54mquhqfZfuzdooHdEw58BUDT2ocy61LsWCLdclbwqtVw/transcode/ap-southeast-1/periscope-replay-direct-live/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8
 #EXTINF:-1 tvg- group-title="Sports",Astro Cricket
 http://nwbz1u.ecm.tm/806B6CF/84137e/SK_MA_ASTRO_SUPER_SPORT_CRICKET/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c3be801782c27ff83d6c3d8086796083c9e4eae0718a96e35a78db35fc417891f79725c21b88b1da11a64ac33705b66d7f50ff103affd5a58ef48256855a8ba8eae22ac6594c65d6bb7c33e329027c7364d6cc809fa887c8464d715b237c7e50e07a64eff32421d00c4de17b8b06ce5
+#EXTINF:-1 tvg- group-title="Sports",Star sports 1
+https://1ojy.short.gy/Nayeem-Parvez/Star-Sports1-HD.m3u8
