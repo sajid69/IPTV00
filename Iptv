@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg- group-title="Sports",WARM UP 1
-https://prod-fastly-ap-southeast-1.video.pscp.tv/Transcoding/v1/hls/sJOkgo2iPgTcc4t48HJd0n8aU2omdzdk5l7utX5Swu6SSs1qQzhq9ngIiiNQhs6aYI1SbyqrNcD18CyOtW8jTQ/non_transcode/us-west-2/periscope-replay-direct-live/master_dynamic_highlatency.m3u8?type=live
+#EXTINF:-1 tvg- group-title="Sports",PAK VS SA
+https://prod-fastly-ap-southeast-1.video.pscp.tv/Transcoding/v1/hls/G2KDssPiQzZuhjgg02LDS0_pvO1oyQaLQ7z8mMRvw7hG1l53h-5K2IEAaAoTXnXsv_Yb3KyvZed4PIvQUdBRug/non_transcode/us-west-2/periscope-replay-direct-live/master_dynamic_highlatency.m3u8?type=live
 #EXTINF:-1 tvg- group-title="Sports",WARM UP 2
 https://prod-fastly-ap-southeast-1.video.pscp.tv/Transcoding/v1/hls/4iL7DN2OsPGF1xEWTvW3rX6tQuOqPePWXSH0GgTshiSuQt2jHJSGkoyPLkpqcJRjCg6o_oNOKWdpb-fHQgPvyQ/non_transcode/us-west-2/periscope-replay-direct-live/master_dynamic_highlatency.m3u8?type=live
 #EXTINF:-1 tvg- group-title="Sports",GTV
