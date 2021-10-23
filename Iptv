@@ -11,9 +11,7 @@ http://nwbz1u.ecm.tm/806B6CF/84137e/SK_MA_ASTRO_SUPER_SPORT_CRICKET/tracks-v1a1/
 http://103.81.104.118:80/hls/Gazi-TV.m3u8
 #EXTINF:-1 tvg- group-title="Sports",Siyatha Tv
 http://live.siyathatv.lk:19904/hls/siyatha_tv.m3u8
-#EXTINF:-1 tvg- group-title="Sports",STAR SPORTS 1
-http://103.81.104.118:80/hls/stersports1hd.m3u8
-#EXTINF:-1 tvg- group-title="Sports",STAR SPORTS 2
-http://103.81.104.118:80/hls/starsports2.m3u8
 #EXTINF:-1 tvg- group-title="Sports",FOX 501
 http://45.76.153.227/ch/icc.m3u8?token=np
+#EXTINF:-1 tvg- group-title="Sports",ATNNAT
+https://d10rltuy0iweup.cloudfront.net/ATNNAT/myStream/chunklist_w2121902183.m3u8
