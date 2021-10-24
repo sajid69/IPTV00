@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg- group-title="Sports",HOTSTAR English 
 https://prod-fastly-ap-southeast-1.video.pscp.tv/Transcoding/v1/hls/58PTueFMJJ7N432d__Gsr43WJdMFtJKmANOvp6aHFvxcTYATUnd1Bn5q9onfSDCGv-CQzDX5A1HNdUyFaPTsjA/transcode/ap-southeast-1/periscope-replay-direct-live/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18xMDgwcDMwXzEwIiwiSGVpZ2h0IjoxMDgwLCJLYnBzIjo1NTAwLCJXaWR0aCI6MTkyMH0.OImMZabKYJ0cs9CnIapU-4aBk6KNBiJxi1hh-6l4BZ4/dynamic_highlatency.m3u8?type=live
+#EXTINF:-1 tvg- group-title="Sports",YALLA LIVE
+https://d1sf7uk98qu2jj.cloudfront.net/out/v1/0c01ab1cff594d1e870be7bc2f6b5dd1/index_2.m3u8?from=other&vsid=0000000000000000000000000000000000000000000000000000000000000000&session_data=1&preview=1&t=1635085155423&abd=1
 #EXTINF:-1 tvg- group-title="Sports",HOTSTAR HINDI
 https://prod-fastly-ap-southeast-1.video.pscp.tv/Transcoding/v1/hls/kRKtAtz63hw6yHRod6XzR3VgCXRaDne61n5s8DiOfh4i_YtnbEGJBa7xDbE5K0cM0LiKDt50Mj1Wgp6XBS6FmA/non_transcode/us-west-2/periscope-replay-direct-live/master_dynamic_highlatency.m3u8?type=live
 #EXTINF:-1 tvg- group-title="Sports",Astro Cricket
