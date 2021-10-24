@@ -13,3 +13,5 @@ http://45.76.153.227/ch/icc.m3u8?token=np
 https://d10rltuy0iweup.cloudfront.net/ATNNAT/myStream/chunklist_w2121902183.m3u8
 #EXTINF:-1 tvg- group-title="Sports",STAR SPORTS 1
 https://prod-fastly-ap-south-1.video.pscp.tv/Transcoding/v1/hls/_vaO8kauqfvjlBfh6uh8IoyMc48I8D4UikGD4z5NZM7wlC8y4ZtD4S44uJGMz7HGcnW-CLiMaRixjlWaEAKIpw/non_transcode/ap-southeast-1/periscope-replay-direct-prod-ap-southeast-1-public/master_dynamic_highlatency.m3u8?type=live&key=thenayeemparvez
+#EXTINF:-1 tvg- group-title="Sports",BEIN 1
+http://a6.amaniyouhra.xyz/live/918454578/index.m3u8?token=thenayeemparvez
