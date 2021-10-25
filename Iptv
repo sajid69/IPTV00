@@ -1,19 +1,14 @@
 #EXTM3U
-#EXTINF:-1 tvg- group-title="Sports",HOTSTAR English 
-https://prod-fastly-ap-southeast-1.video.pscp.tv/Transcoding/v1/hls/58PTueFMJJ7N432d__Gsr43WJdMFtJKmANOvp6aHFvxcTYATUnd1Bn5q9onfSDCGv-CQzDX5A1HNdUyFaPTsjA/transcode/ap-southeast-1/periscope-replay-direct-live/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18xMDgwcDMwXzEwIiwiSGVpZ2h0IjoxMDgwLCJLYnBzIjo1NTAwLCJXaWR0aCI6MTkyMH0.OImMZabKYJ0cs9CnIapU-4aBk6KNBiJxi1hh-6l4BZ4/dynamic_highlatency.m3u8?type=live
-#EXTINF:-1 tvg- group-title="Sports",YALLA LIVE
-https://d1sf7uk98qu2jj.cloudfront.net/out/v1/0c01ab1cff594d1e870be7bc2f6b5dd1/index_2.m3u8?from=other&vsid=0000000000000000000000000000000000000000000000000000000000000000&session_data=1&preview=1&t=1635085155423&abd=1
 #EXTINF:-1 tvg- group-title="Sports",HOTSTAR HINDI
+https://prod-fastly-ap-southeast-1.video.pscp.tv/Transcoding/v1/hls/58PTueFMJJ7N432d__Gsr43WJdMFtJKmANOvp6aHFvxcTYATUnd1Bn5q9onfSDCGv-CQzDX5A1HNdUyFaPTsjA/transcode/ap-southeast-1/periscope-replay-direct-live/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18xMDgwcDMwXzEwIiwiSGVpZ2h0IjoxMDgwLCJLYnBzIjo1NTAwLCJXaWR0aCI6MTkyMH0.OImMZabKYJ0cs9CnIapU-4aBk6KNBiJxi1hh-6l4BZ4/dynamic_highlatency.m3u8?type=live
+#EXTINF:-1 tvg- group-title="Sports",HOTSTAR ENGLISH 
 https://prod-fastly-ap-southeast-1.video.pscp.tv/Transcoding/v1/hls/kRKtAtz63hw6yHRod6XzR3VgCXRaDne61n5s8DiOfh4i_YtnbEGJBa7xDbE5K0cM0LiKDt50Mj1Wgp6XBS6FmA/non_transcode/us-west-2/periscope-replay-direct-live/master_dynamic_highlatency.m3u8?type=live
-#EXTINF:-1 tvg- group-title="Sports",Astro Cricket
+#EXTINF:-1 tvg- group-title="Sports",GTV
+http://acdn.bdixsports.live:1935/live/event.stream/chunklist_w242111883.m3u8?bdixsportstokenendtime=1635207360&bdixsportstokenstarttime=1635171360&bdixsportstokenhash=PllJOjtO8xwbWk4TVgwI8bdaPqQu5_L5vJ76nAt058Y%3D
+#EXTINF:-1 tvg- group-title="Sports",ASTRO CRICKET
 http://nwbz1u.ecm.tm/806B6CF/84137e/SK_MA_ASTRO_SUPER_SPORT_CRICKET/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c3be801782c27ff83d6c3d8086796083c9e4eae0718a96e35a78db35fc417891f79725c21b88b1da11a64ac33705b66d7f50ff103affd5a58ef48256855a8ba8eae22ac6594c65d6bb7c33e329027c7364d6cc809fa887c8464d715b237c7e50e07a64eff32421d00c4de17b8b06ce5
 #EXTINF:-1 tvg- group-title="Sports",Siyatha Tv
 http://live.siyathatv.lk:19904/hls/siyatha_tv.m3u8
-#EXTINF:-1 tvg- group-title="Sports",FOX 501
-http://45.76.153.227/ch/icc.m3u8?token=np
 #EXTINF:-1 tvg- group-title="Sports",ATNNAT
 https://d10rltuy0iweup.cloudfront.net/ATNNAT/myStream/chunklist_w2121902183.m3u8
-#EXTINF:-1 tvg- group-title="Sports",STAR SPORTS 1
-https://prod-fastly-ap-south-1.video.pscp.tv/Transcoding/v1/hls/_vaO8kauqfvjlBfh6uh8IoyMc48I8D4UikGD4z5NZM7wlC8y4ZtD4S44uJGMz7HGcnW-CLiMaRixjlWaEAKIpw/non_transcode/ap-southeast-1/periscope-replay-direct-prod-ap-southeast-1-public/master_dynamic_highlatency.m3u8?type=live&key=thenayeemparvez
-#EXTINF:-1 tvg- group-title="Sports",BEIN 1
-http://a6.amaniyouhra.xyz/live/918454578/index.m3u8?token=thenayeemparvez
+
