@@ -1,8 +1,8 @@
 #EXTM3U
+#EXTINF:-1 tvg- group-title="Sports",HOTSTAR ENGLISH
+https://prod-fastly-ap-southeast-1.video.pscp.tv/Transcoding/v1/hls/EX-7c__253GW4Q4zjpv6HTWKOiNYgX076EXhsMZRGUW9CCEQgYStTrJE3pGW0v41ZMflhgSea2RiOzsEGaU2sg/non_transcode/us-west-2/periscope-replay-direct-live/master_dynamic_highlatency.m3u8?type=live
 #EXTINF:-1 tvg- group-title="Sports",HOTSTAR HINDI
-https://prod-fastly-ap-southeast-1.video.pscp.tv/Transcoding/v1/hls/58PTueFMJJ7N432d__Gsr43WJdMFtJKmANOvp6aHFvxcTYATUnd1Bn5q9onfSDCGv-CQzDX5A1HNdUyFaPTsjA/transcode/ap-southeast-1/periscope-replay-direct-live/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18xMDgwcDMwXzEwIiwiSGVpZ2h0IjoxMDgwLCJLYnBzIjo1NTAwLCJXaWR0aCI6MTkyMH0.OImMZabKYJ0cs9CnIapU-4aBk6KNBiJxi1hh-6l4BZ4/dynamic_highlatency.m3u8?type=live
-#EXTINF:-1 tvg- group-title="Sports",HOTSTAR ENGLISH 
-https://prod-fastly-ap-southeast-1.video.pscp.tv/Transcoding/v1/hls/kRKtAtz63hw6yHRod6XzR3VgCXRaDne61n5s8DiOfh4i_YtnbEGJBa7xDbE5K0cM0LiKDt50Mj1Wgp6XBS6FmA/non_transcode/us-west-2/periscope-replay-direct-live/master_dynamic_highlatency.m3u8?type=live
+https://prod-fastly-ap-southeast-1.video.pscp.tv/Transcoding/v1/hls/weD03UhjvzA7NailkPjt5AewyEEjT4G8GM9dpxlsjK5Tpn_A5qM6Y3BfQetQE6fyBiKk6d4_Qnfr-XN5Dexppw/non_transcode/us-west-2/periscope-replay-direct-live/master_dynamic_highlatency.m3u8?type=live
 #EXTINF:-1 tvg- group-title="Sports",GTV
 http://acdn.bdixsports.live:1935/live/event.stream/chunklist_w242111883.m3u8?bdixsportstokenendtime=1635207360&bdixsportstokenstarttime=1635171360&bdixsportstokenhash=PllJOjtO8xwbWk4TVgwI8bdaPqQu5_L5vJ76nAt058Y%3D
 #EXTINF:-1 tvg- group-title="Sports",ASTRO CRICKET
