@@ -13,3 +13,5 @@ http://live.siyathatv.lk:19904/hls/siyatha_tv.m3u8
 https://d10rltuy0iweup.cloudfront.net/ATNNAT/myStream/chunklist_w2121902183.m3u8
 #EXTINF:-1 tvg- group-title="Sports",GTV
 http://edge01.iptv.digijadoo.net/live/gazi_tv/chunks.m3u8?expires=1635385974&md5=a5lV-A-J-US7YlJOKR6PlA&user=49729ec489674ef3912b6d7cd0822923
+#EXTINF:-1 tvg- group-title="Sports",T sports
+http://edge01.iptv.digijadoo.net/live/t_sports/chunks.m3u8?expires=1635386134&md5=pqVRsoX3SzTDdVwG2LAH6g&user=49729ec489674ef3912b6d7cd0822923
