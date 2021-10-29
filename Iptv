@@ -25,3 +25,5 @@ http://cdn.ihub.live:8082/j-TSports/tracks-v1a1/mono.m3u8?token=37e37961050e908d
 http://103.159.4.38:5868/BD-BANGLA-8/index.m3u8?token=nayeemparvez.ml&join-AllLiveSportsLinks=
 #EXTINF:-1 tvg- group-title="Sports",ASPORTS
 https://leeftv.link/ASPORTS/auto/playlist.m3u8
+#EXTINF:-1 tvg- group-title="BANGLA",EKATTOR
+https://edge01.iptv.digijadoo.net/live/ekattor_tv/chunks.m3u8?expires=1635623505&md5=tEYG6R23Mf2iPriM0uHfcA&user=49729ec489674ef3912b6d7cd0822923
