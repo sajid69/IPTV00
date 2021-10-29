@@ -15,7 +15,11 @@ https://d10rltuy0iweup.cloudfront.net/ATNNAT/myStream/chunklist_w2121902183.m3u8
 http://103.102.27.172:6464/Channel-1/tracks-v1a1/mono.m3u8?join-AllLiveSportsLinks
 #EXTINF:-1 tvg- group-title="Sports",GTV(2)
 http://acdn.bdixsports.live:1935/live/event.stream/chunklist_w242111883.m3u8?token=nayeemparvez.tk&join-AllLiveSportsLinks=
+#EXTINF:-1 tvg- group-title="Sports",GTV(3)
+http://edge01.iptv.digijadoo.net/live/gazi_tv/chunks.m3u8?expires=1635611954&md5=S9NN43LbVR37_iJu7JSiTA&user=49729ec489674ef3912b6d7cd0822923
 #EXTINF:-1 tvg- group-title="Sports",T sports (1)
 http://103.159.4.38:5868/BD-BANGLA-11/index.m3u8?token=nayeemparvez.ml&join-AllLiveSportsLinks=
 #EXTINF:-1 tvg- group-title="Sports",T sports (2)
 http://cdn.ihub.live:8082/j-TSports/tracks-v1a1/mono.m3u8?token=37e37961050e908d7f1ce7b7dd6edc4c1147f487-cc845511785665d87bc31fa75651b6ed-1635504447-1635493647&join-AllLiveSportsLinks=
+#EXTINF:-1 tvg- group-title="Sports",BTV
+http://103.159.4.38:5868/BD-BANGLA-8/index.m3u8?token=nayeemparvez.ml&join-AllLiveSportsLinks=
