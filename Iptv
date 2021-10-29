@@ -23,3 +23,5 @@ http://103.159.4.38:5868/BD-BANGLA-11/index.m3u8?token=nayeemparvez.ml&join-AllL
 http://cdn.ihub.live:8082/j-TSports/tracks-v1a1/mono.m3u8?token=37e37961050e908d7f1ce7b7dd6edc4c1147f487-cc845511785665d87bc31fa75651b6ed-1635504447-1635493647&join-AllLiveSportsLinks=
 #EXTINF:-1 tvg- group-title="Sports",BTV
 http://103.159.4.38:5868/BD-BANGLA-8/index.m3u8?token=nayeemparvez.ml&join-AllLiveSportsLinks=
+#EXTINF:-1 tvg- group-title="Sports",ASPORTS
+https://leeftv.link/ASPORTS/auto/playlist.m3u8
