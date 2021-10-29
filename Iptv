@@ -23,10 +23,6 @@ http://103.159.4.38:5868/BD-BANGLA-11/index.m3u8?token=nayeemparvez.ml&join-AllL
 http://cdn.ihub.live:8082/j-TSports/tracks-v1a1/mono.m3u8?token=fbd2a8787b5134fbbe6ac7ef02540e31968b4390-ed843ab57959d72cab977a6d7d21e0d3-1635525980-1635515180&join-AllLiveSportsLinks=
 #EXTINF:-1 tvg- group-title="Sports",BTV
 http://103.159.4.38:5868/BD-BANGLA-8/index.m3u8?token=nayeemparvez.ml&join-AllLiveSportsLinks=
-#EXTINF:-1 tvg- group-title="Sports",ASPORTS
-https://leeftv.link/ASPORTS/auto/playlist.m3u8
-#EXTINF:-1 tvg- group-title="Sports",WILLOW
-https://p03.quest123.top/live/webcrici01/playlist.m3u8
 #EXTINF:-1 tvg- group-title="BANGLA",BTV WORLD
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/btvbd-office-sg.stream/chunks.m3u8
 #EXTINF:-1 tvg- group-title="BANGLA",EKATTOR
