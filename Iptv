@@ -5,6 +5,8 @@ https://a.rbst.eu.org/l.m3u8?token=aHR0cDovLzE4OC4xNjYuMjI4Ljg2OjgwODEvZW5nbGlza
 https://cdn.rbst.eu.org/pscp/l.m3u8?token=aHR0cHM6Ly9wcm9kLWZhc3RseS1hcC1zb3V0aGVhc3QtMS52aWRlby5wc2NwLnR2L1RyYW5zY29kaW5nL3YxL2hscy91V21nQ1ptb3VnRFc1aHNtMWJndzgzVUctQWg3T2hrVThOaTFzeFpuV2dET0J3N21BSW1Nd1hlZFZjc1BwRlFhcnNSZWYxTE82LXlHYW1TX1JXaGxLZy90cmFuc2NvZGUvYXAtc291dGhlYXN0LTEvcGVyaXNjb3BlLXJlcGxheS1kaXJlY3QtbGl2ZS9leUpoYkdjaU9pSklVekkxTmlJc0luUjVjQ0k2SWtwWFZDSXNJblpsY25OcGIyNGlPaUl5SW4wLmV5SkZibU52WkdWeVUyVjBkR2x1WnlJNkltVnVZMjlrWlhKZmMyVjBkR2x1WjE4eE1EZ3djRE13WHpFd0lpd2lTR1ZwWjJoMElqb3hNRGd3TENKTFluQnpJam8xTlRBd0xDSlhhV1IwYUNJNk1Ua3lNSDAuT0ltTVphYktZSjBjczlDbklhcFUtNGFCazZLTkJpSnhpMWhoLTZsNEJaNC9keW5hbWljX2hpZ2hsYXRlbmN5Lm0zdTg/dHlwZT1saXZl
 #EXTINF:-1 tvg- group-title="Sports",SKY CRICKET
 http://nwbz1u.ecm.tm/806B6CF/143120e/GL_UK_SKY_SPORT_CRICKET/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c38ef01782c497704995ee2d5d9f8c8b1ee552817ffe9c9c0737ed17a8209153b8d68697e2655e3e2c0998d3656aa486942d7e827b15fd6a597692846a469abeb0c187477610352ca5660eae1069fd75c420156fc7f5b86f079c1f74149332ce34408d31d59a187c8
+#EXTINF:-1 tvg- group-title="Sports",A SPORTS
+http://181.215.178.68:8880/live/97452669/89958769/522057.m3u8?token=TBINUUtRElhGUQVXUQoOVAEBVAcAXQ1bA1YCAgYDAAYHUwFRAQxVVFYSHBcQTUpSUVw6DF1HAwwCBlYFBRsWEURVF29RXRJYRgIIAloMABUcExEMVAAbAwAYREBbUxZeFQRSBg8JEk5GVUhBBktWVlxuAQBPDFpcEg4IRV5bGEZYXjpUXVRRDAASChdTGxQVWUIVRwMLTFVcGERSW0NGBUNVRwoaDwdQUBIcFwBWTVlEQxxHA0dwdxIYRFVKQ1EKRFkKXhoDEg9XRQgXTxtRRG9DABZNF1xYXVEUEggVBEYbEghRQGZTDQpeVVYXUFdZQxNfRwhHFRtdWwhZRlhGO0dZARICGwJUUQgEFx4=
 #EXTINF:-1 tvg- group-title="Sports",T SPORTS
 https://live.sonyplex.com/sonyplex/T-SPORTS.stream/index.m3u8
 #EXTINF:-1 tvg- group-title="Sports",ASTRO CRICKET
@@ -17,8 +19,6 @@ https://d10rltuy0iweup.cloudfront.net/ATNNAT/myStream/chunklist_w2121902183.m3u8
 http://103.102.27.172:6464/Channel-1/tracks-v1a1/mono.m3u8?join-AllLiveSportsLinks
 #EXTINF:-1 tvg- group-title="Sports",GTV(3)
 http://edge01.iptv.digijadoo.net/live/gazi_tv/chunks.m3u8?expires=1635611954&md5=S9NN43LbVR37_iJu7JSiTA&user=49729ec489674ef3912b6d7cd0822923
-#EXTINF:-1 tvg- group-title="Sports",T sports (1)
-http://103.159.4.38:5868/BD-BANGLA-11/index.m3u8
 #EXTINF:-1 tvg- group-title="Sports",BTV
 http://103.159.4.38:5868/BD-BANGLA-8/index.m3u8?token=nayeemparvez.ml&join-AllLiveSportsLinks=
 #EXTINF:-1 tvg- group-title="BANGLA",BTV WORLD
