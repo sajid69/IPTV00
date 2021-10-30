@@ -1,32 +1,24 @@
 #EXTM3U
 #EXTINF:-1 tvg- group-title="Sports",HOTSTAR ENGLISH
-https://24tv.short.gy/Local_IPTV_PLAYLIST/HOTSTAR_ENGLISH.m3u8
+https://a.rbst.eu.org/l.m3u8?token=aHR0cDovLzE4OC4xNjYuMjI4Ljg2OjgwODEvZW5nbGlzaC9hcHAvbWFzdGVyXzYubTN1OD9uaW1ibGVzZXNzaW9uaWQ9Mjg3NzAmd21zQXV0aFNpZ249YzJWeWRtVnlYM1JwYldVOU1UQXZNekF2TWpBeU1TQXhPalV6T2pFMklGQk5KbWhoYzJoZmRtRnNkV1U5V21ScVozUlBkbnBHVjI0eFJGaElTR2hhVGpNeVVUMDlKblpoYkdsa2JXbHVkWFJsY3owMk1DWnpkSEp0WDJ4bGJqMHhNUT09
 #EXTINF:-1 tvg- group-title="Sports",HOTSTAR HINDI
-https://prod-fastly-ap-southeast-1.video.pscp.tv/Transcoding/v1/hls/2lSDP9kInW6R9yjCzM76-i5Kb5lx2IePElrP40G6O0q7fk3itvT3WIWRhTinsroxXsEsqCDPlV9ceIRQYjUUjw/transcode/ap-southeast-1/periscope-replay-direct-live/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18yMjRwMzBfMTAiLCJIZWlnaHQiOjIyNCwiS2JwcyI6MzAwLCJUcmFuc2NvZGVBdWRpbyI6dHJ1ZSwiV2lkdGgiOjQwMH0.7bJSUVkCCWY9mtayJTkJOzF7SBt0W-fOgmaXO9-OjnM/dynamic_highlatency.m3u8?type=live
-#EXTINF:-1 tvg- group-title="Sports",S CRICKET
-http://hdstreamzz.xyz:9981/NehostingBJ1/DaiLx23Poia7a/12.m3u8
+https://cdn.rbst.eu.org/pscp/l.m3u8?token=aHR0cHM6Ly9wcm9kLWZhc3RseS1hcC1zb3V0aGVhc3QtMS52aWRlby5wc2NwLnR2L1RyYW5zY29kaW5nL3YxL2hscy91V21nQ1ptb3VnRFc1aHNtMWJndzgzVUctQWg3T2hrVThOaTFzeFpuV2dET0J3N21BSW1Nd1hlZFZjc1BwRlFhcnNSZWYxTE82LXlHYW1TX1JXaGxLZy90cmFuc2NvZGUvYXAtc291dGhlYXN0LTEvcGVyaXNjb3BlLXJlcGxheS1kaXJlY3QtbGl2ZS9leUpoYkdjaU9pSklVekkxTmlJc0luUjVjQ0k2SWtwWFZDSXNJblpsY25OcGIyNGlPaUl5SW4wLmV5SkZibU52WkdWeVUyVjBkR2x1WnlJNkltVnVZMjlrWlhKZmMyVjBkR2x1WjE4eE1EZ3djRE13WHpFd0lpd2lTR1ZwWjJoMElqb3hNRGd3TENKTFluQnpJam8xTlRBd0xDSlhhV1IwYUNJNk1Ua3lNSDAuT0ltTVphYktZSjBjczlDbklhcFUtNGFCazZLTkJpSnhpMWhoLTZsNEJaNC9keW5hbWljX2hpZ2hsYXRlbmN5Lm0zdTg/dHlwZT1saXZl
 #EXTINF:-1 tvg- group-title="Sports",SKY CRICKET
 http://nwbz1u.ecm.tm/806B6CF/143120e/GL_UK_SKY_SPORT_CRICKET/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c38ef01782c497704995ee2d5d9f8c8b1ee552817ffe9c9c0737ed17a8209153b8d68697e2655e3e2c0998d3656aa486942d7e827b15fd6a597692846a469abeb0c187477610352ca5660eae1069fd75c420156fc7f5b86f079c1f74149332ce34408d31d59a187c8
 #EXTINF:-1 tvg- group-title="Sports",T SPORTS
 https://live.sonyplex.com/sonyplex/T-SPORTS.stream/index.m3u8
 #EXTINF:-1 tvg- group-title="Sports",ASTRO CRICKET
 http://nwbz1u.ecm.tm/806B6CF/84137e/SK_MA_ASTRO_SUPER_SPORT_CRICKET/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c3be801782c27ff83d6c3d8086796083c9e4eae0718a96e35a78db35fc417891f79725c21b88b1da11a64ac33705b66d7f50ff103affd5a58ef48256855a8ba8eae22ac6594c65d6bb7c33e329027c7364d6cc809fa887c8464d715b237c7e50e07a64eff32421d00c4de17b8b06ce5
-#EXTINF:-1 tvg- group-title="Sports",ASPORTS
-https://leeftv.link/ASPORTS/auto/playlist.m3u8
 #EXTINF:-1 tvg- group-title="Sports",Siyatha Tv
 http://live.siyathatv.lk:19904/hls/siyatha_tv.m3u8
 #EXTINF:-1 tvg- group-title="Sports",ATNNAT
 https://d10rltuy0iweup.cloudfront.net/ATNNAT/myStream/chunklist_w2121902183.m3u8
 #EXTINF:-1 tvg- group-title="Sports",GTV(1)
 http://103.102.27.172:6464/Channel-1/tracks-v1a1/mono.m3u8?join-AllLiveSportsLinks
-#EXTINF:-1 tvg- group-title="Sports",GTV(2)
-http://acdn.bdixsports.live:1935/live/event.stream/chunklist_w242111883.m3u8?token=nayeemparvez.tk&join-AllLiveSportsLinks=
 #EXTINF:-1 tvg- group-title="Sports",GTV(3)
 http://edge01.iptv.digijadoo.net/live/gazi_tv/chunks.m3u8?expires=1635611954&md5=S9NN43LbVR37_iJu7JSiTA&user=49729ec489674ef3912b6d7cd0822923
 #EXTINF:-1 tvg- group-title="Sports",T sports (1)
-http://103.159.4.38:5868/BD-BANGLA-11/index.m3u8?token=nayeemparvez.ml&join-AllLiveSportsLinks=
-#EXTINF:-1 tvg- group-title="Sports",T sports (2)
-http://cdn.ihub.live:8082/j-TSports/tracks-v1a1/mono.m3u8?token=fbd2a8787b5134fbbe6ac7ef02540e31968b4390-ed843ab57959d72cab977a6d7d21e0d3-1635525980-1635515180&join-AllLiveSportsLinks=
+http://103.159.4.38:5868/BD-BANGLA-11/index.m3u8
 #EXTINF:-1 tvg- group-title="Sports",BTV
 http://103.159.4.38:5868/BD-BANGLA-8/index.m3u8?token=nayeemparvez.ml&join-AllLiveSportsLinks=
 #EXTINF:-1 tvg- group-title="BANGLA",BTV WORLD
@@ -91,9 +83,9 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/dbcnews.stream/chunks.m3u8
 #EXTINF:-1 tvg- group-title="BANGLA",EKUSHEY 
 http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
-#EXTINF:-1,Maasranga. 
+#EXTINF:-1 tvg- group-title="BANGLA",Maasranga. 
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/mass.stream/chunks.m3u8
-#EXTINF:-1,News 24. 
+#EXTINF:-1,tvg- group-title="BANGLA", News 24
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/news24local.stream/chunks.m3u8
 #EXTINF:-1,Live Sports (BDIXsports).
  http://bcdn.bdixsports.live:1935/live/event.stream/index.m3u8
