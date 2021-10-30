@@ -3,6 +3,12 @@
 https://prod-fastly-ap-southeast-1.video.pscp.tv/Transcoding/v1/hls/GJkqfn2wt5xweh8VjbfFf-dO4WaDB_QxyXAxmNXOQK_m_C2udaVdWzxNGzgxzmEokq7S6D5-tOFXaMsy8kFEQg/non_transcode/us-west-2/periscope-replay-direct-live/master_dynamic_highlatency.m3u8?type=live&key=thenayeemparvez&join-AllLiveSportsLinks=
 #EXTINF:-1 tvg- group-title="Sports",HOTSTAR HINDI
 https://prod-fastly-ap-southeast-1.video.pscp.tv/Transcoding/v1/hls/2lSDP9kInW6R9yjCzM76-i5Kb5lx2IePElrP40G6O0q7fk3itvT3WIWRhTinsroxXsEsqCDPlV9ceIRQYjUUjw/transcode/ap-southeast-1/periscope-replay-direct-live/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18yMjRwMzBfMTAiLCJIZWlnaHQiOjIyNCwiS2JwcyI6MzAwLCJUcmFuc2NvZGVBdWRpbyI6dHJ1ZSwiV2lkdGgiOjQwMH0.7bJSUVkCCWY9mtayJTkJOzF7SBt0W-fOgmaXO9-OjnM/dynamic_highlatency.m3u8?type=live
+#EXTINF:-1 tvg- group-title="Sports",S CRICKET
+http://hdstreamzz.xyz:9981/NehostingBJ1/DaiLx23Poia7a/12.m3u8
+#EXTINF:-1 tvg- group-title="Sports",SKY CRICKET
+http://nwbz1u.ecm.tm/806B6CF/143120e/GL_UK_SKY_SPORT_CRICKET/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c38ef01782c497704995ee2d5d9f8c8b1ee552817ffe9c9c0737ed17a8209153b8d68697e2655e3e2c0998d3656aa486942d7e827b15fd6a597692846a469abeb0c187477610352ca5660eae1069fd75c420156fc7f5b86f079c1f74149332ce34408d31d59a187c8
+#EXTINF:-1 tvg- group-title="Sports",T SPORTS
+https://live.sonyplex.com/sonyplex/T-SPORTS.stream/index.m3u8
 #EXTINF:-1 tvg- group-title="Sports",GTV
 http://acdn.bdixsports.live:1935/live/event.stream/chunklist_w242111883.m3u8?bdixsportstokenendtime=1635207360&bdixsportstokenstarttime=1635171360&bdixsportstokenhash=PllJOjtO8xwbWk4TVgwI8bdaPqQu5_L5vJ76nAt058Y%3D
 #EXTINF:-1 tvg- group-title="Sports",ASTRO CRICKET
@@ -65,7 +71,6 @@ http://103.159.4.38:5868/BD-BANGLA-16/index.m3u8
 http://103.159.4.38:5868/BD-BANGLA-17/index.m3u8
 #EXTINF:-1 tvg- group-title="BANGLA",NTV
 http://103.159.4.38:5868/BD-BANGLA-18/index.m3u8
-
 #EXTINF:-1 tvg- group-title="BANGLA",Anondo
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/anandatv.stream/chunks.m3u8
  #EXTINF:-1 tvg- group-title="BANGLA",Atn Bangla
@@ -111,7 +116,7 @@ https://bd.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92Y
 https://bd.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/channeli-8-org.stream/live-orgin/channeli-8-org.stream/chunks.m3u8
 #EXTINF:-1,Deepto TV. 
 https://bd.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/deeptotv.stream/live-orgin/deeptotv.stream/chunks.m3u8
-#EXTINF:-1,#EXTINF:-1 tvg- group-title="BANGLA",DESH TV. 
+#EXTINF:-1 tvg- group-title="BANGLA",DESH TV. 
 https://bd.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/deshtv.stream/live-orgin/deshtv.stream/playlist.m3u8
 #EXTINF:-1 tvg- group-title="BANGLA",EKUSHEY 
 http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
