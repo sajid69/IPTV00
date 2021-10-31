@@ -1,26 +1,24 @@
 #EXTM3U
 #EXTINF:-1 tvg- group-title="Sports",HOTSTAR ENGLISH
-https://a.rbst.eu.org/l.m3u8?token=aHR0cDovLzE4OC4xNjYuMjI4Ljg2OjgwODEvZW5nbGlzaC9hcHAvbWFzdGVyXzYubTN1OD9uaW1ibGVzZXNzaW9uaWQ9Mjg3NzAmd21zQXV0aFNpZ249YzJWeWRtVnlYM1JwYldVOU1UQXZNekF2TWpBeU1TQXhPalV6T2pFMklGQk5KbWhoYzJoZmRtRnNkV1U5V21ScVozUlBkbnBHVjI0eFJGaElTR2hhVGpNeVVUMDlKblpoYkdsa2JXbHVkWFJsY3owMk1DWnpkSEp0WDJ4bGJqMHhNUT09
+https://prod-fastly-ap-southeast-1.video.pscp.tv/Transcoding/v1/hls/6DPpYnMW35VgycCVO7y7bk9Km4YNOHSpjVtJsIr6L5TpflqA33g6fFkVRpMviqeOZyXNzMnrpRE3pn0fYHU7yA/transcode/ap-southeast-1/periscope-replay-direct-live/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18xMDgwcDMwXzEwIiwiSGVpZ2h0IjoxMDgwLCJLYnBzIjo1NTAwLCJXaWR0aCI6MTkyMH0.OImMZabKYJ0cs9CnIapU-4aBk6KNBiJxi1hh-6l4BZ4/dynamic_highlatency.m3u8?type=live
 #EXTINF:-1 tvg- group-title="Sports",HOTSTAR HINDI
-https://cdn.rbst.eu.org/pscp/l.m3u8?token=aHR0cHM6Ly9wcm9kLWZhc3RseS1hcC1zb3V0aGVhc3QtMS52aWRlby5wc2NwLnR2L1RyYW5zY29kaW5nL3YxL2hscy91V21nQ1ptb3VnRFc1aHNtMWJndzgzVUctQWg3T2hrVThOaTFzeFpuV2dET0J3N21BSW1Nd1hlZFZjc1BwRlFhcnNSZWYxTE82LXlHYW1TX1JXaGxLZy90cmFuc2NvZGUvYXAtc291dGhlYXN0LTEvcGVyaXNjb3BlLXJlcGxheS1kaXJlY3QtbGl2ZS9leUpoYkdjaU9pSklVekkxTmlJc0luUjVjQ0k2SWtwWFZDSXNJblpsY25OcGIyNGlPaUl5SW4wLmV5SkZibU52WkdWeVUyVjBkR2x1WnlJNkltVnVZMjlrWlhKZmMyVjBkR2x1WjE4eE1EZ3djRE13WHpFd0lpd2lTR1ZwWjJoMElqb3hNRGd3TENKTFluQnpJam8xTlRBd0xDSlhhV1IwYUNJNk1Ua3lNSDAuT0ltTVphYktZSjBjczlDbklhcFUtNGFCazZLTkJpSnhpMWhoLTZsNEJaNC9keW5hbWljX2hpZ2hsYXRlbmN5Lm0zdTg/dHlwZT1saXZl
+https://prod-fastly-ap-southeast-1.video.pscp.tv/Transcoding/v1/hls/S-IDy63-kzV4CskKq8EFNAhru4YZdxDDBMVYrAGR3lCLTkp58kfm61U--9JG3gEaJlbXiMhNDd5WtCeTYC7DcA/transcode/ap-southeast-1/periscope-replay-direct-live/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18xMDgwcDMwXzEwIiwiSGVpZ2h0IjoxMDgwLCJLYnBzIjo1NTAwLCJXaWR0aCI6MTkyMH0.OImMZabKYJ0cs9CnIapU-4aBk6KNBiJxi1hh-6l4BZ4/dynamic_highlatency.m3u8?type=live
 #EXTINF:-1 tvg- group-title="Sports",SKY CRICKET
 http://nwbz1u.ecm.tm/806B6CF/143120e/GL_UK_SKY_SPORT_CRICKET/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c38ef01782c497704995ee2d5d9f8c8b1ee552817ffe9c9c0737ed17a8209153b8d68697e2655e3e2c0998d3656aa486942d7e827b15fd6a597692846a469abeb0c187477610352ca5660eae1069fd75c420156fc7f5b86f079c1f74149332ce34408d31d59a187c8
 #EXTINF:-1 tvg- group-title="Sports",STAR SPORTS 1 HINDI
 http://nwbz1u.ecm.tm/806B6CF/14295e/cricket_1/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c39ea01782ca0560ef969081f5bf98ed30fa9d2da075f20b16ea5c711cb0f39bd15938e80beea05080c7c9986533c965d2df2e9cb6f48203323b29cea3e9e4f4adfb2be1ed7c13a30ef8c66ea6869755bd5bb4d16405cd81105
-#EXTINF:-1 tvg- group-title="Sports",T SPORTS
-https://live.sonyplex.com/sonyplex/T-SPORTS.stream/index.m3u8
 #EXTINF:-1 tvg- group-title="BANGLA",T SPORTS
 http://103.159.4.38:5868/BD-BANGLA-11/index.m3u8
-#EXTINF:-1,tvg- group-title="Sports",Gazi TV  
+#EXTINF:-1 tvg- group-title="Sports",Gazi TV  
 http://103.77.188.27:1935/live/gtv/index.m3u8
+#EXTINF:-1 tvg- group-title="Sports",Gazi TV  
+https://live.sonyplex.com/sonyplex/GaziTv.stream/index.m3u8
 #EXTINF:-1 tvg- group-title="Sports",ASTRO CRICKET
 http://nwbz1u.ecm.tm/806B6CF/84137e/SK_MA_ASTRO_SUPER_SPORT_CRICKET/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c3be801782c27ff83d6c3d8086796083c9e4eae0718a96e35a78db35fc417891f79725c21b88b1da11a64ac33705b66d7f50ff103affd5a58ef48256855a8ba8eae22ac6594c65d6bb7c33e329027c7364d6cc809fa887c8464d715b237c7e50e07a64eff32421d00c4de17b8b06ce5
 #EXTINF:-1 tvg- group-title="Sports",Siyatha Tv
 http://live.siyathatv.lk:19904/hls/siyatha_tv.m3u8
 #EXTINF:-1 tvg- group-title="Sports",ATNNAT
 https://d10rltuy0iweup.cloudfront.net/ATNNAT/myStream/chunklist_w2121902183.m3u8
-#EXTINF:-1 tvg- group-title="Sports",GTV(1)
-http://103.102.27.172:6464/Channel-1/tracks-v1a1/mono.m3u8?join-AllLiveSportsLinks
 #EXTINF:-1 tvg- group-title="Sports",BTV
 http://103.159.4.38:5868/BD-BANGLA-8/index.m3u8?token=nayeemparvez.ml&join-AllLiveSportsLinks=
 #EXTINF:-1 tvg- group-title="BANGLA",BTV WORLD
@@ -94,8 +92,6 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 https://live.sonyplex.com/sonyplex/GaziTv.stream/index.m3u8
 #EXTINF:-1,Gazi TV  (BDIX17). 
 http://103.77.188.27:1935/live/gtv/index.m3u8
-#EXTINF:-1,Gazi TV  (BDIX16).
- http://103.40.226.94:8080/hls/channel_1.m3u8
 #EXTINF:-1,BTV Chattagram (BDIX6). 
 http://103.106.2.149:13456/btv_ctg.m3u8
 #EXTINF:-1,BTV (BDIX6). 
