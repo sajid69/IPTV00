@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg- group-title="Sports",HOTSTAR ENGLISH
-https://prod-fastly-ap-southeast-1.video.pscp.tv/Transcoding/v1/hls/6DPpYnMW35VgycCVO7y7bk9Km4YNOHSpjVtJsIr6L5TpflqA33g6fFkVRpMviqeOZyXNzMnrpRE3pn0fYHU7yA/transcode/ap-southeast-1/periscope-replay-direct-live/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18xMDgwcDMwXzEwIiwiSGVpZ2h0IjoxMDgwLCJLYnBzIjo1NTAwLCJXaWR0aCI6MTkyMH0.OImMZabKYJ0cs9CnIapU-4aBk6KNBiJxi1hh-6l4BZ4/dynamic_highlatency.m3u8?type=live
-#EXTINF:-1 tvg- group-title="Sports",HOTSTAR HINDI
-https://prod-fastly-ap-southeast-1.video.pscp.tv/Transcoding/v1/hls/S-IDy63-kzV4CskKq8EFNAhru4YZdxDDBMVYrAGR3lCLTkp58kfm61U--9JG3gEaJlbXiMhNDd5WtCeTYC7DcA/transcode/ap-southeast-1/periscope-replay-direct-live/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18xMDgwcDMwXzEwIiwiSGVpZ2h0IjoxMDgwLCJLYnBzIjo1NTAwLCJXaWR0aCI6MTkyMH0.OImMZabKYJ0cs9CnIapU-4aBk6KNBiJxi1hh-6l4BZ4/dynamic_highlatency.m3u8?type=live
 #EXTINF:-1 tvg- group-title="Sports",SKY CRICKET
 http://nwbz1u.ecm.tm/806B6CF/143120e/GL_UK_SKY_SPORT_CRICKET/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c38ef01782c497704995ee2d5d9f8c8b1ee552817ffe9c9c0737ed17a8209153b8d68697e2655e3e2c0998d3656aa486942d7e827b15fd6a597692846a469abeb0c187477610352ca5660eae1069fd75c420156fc7f5b86f079c1f74149332ce34408d31d59a187c8
 #EXTINF:-1 tvg- group-title="Sports",STAR SPORTS 1 HINDI
@@ -21,6 +17,14 @@ http://live.siyathatv.lk:19904/hls/siyatha_tv.m3u8
 https://d10rltuy0iweup.cloudfront.net/ATNNAT/myStream/chunklist_w2121902183.m3u8
 #EXTINF:-1 tvg- group-title="Sports",BTV
 http://103.159.4.38:5868/BD-BANGLA-8/index.m3u8?token=nayeemparvez.ml&join-AllLiveSportsLinks=
+#EXTINF:-1 tvg- group-title="Sports",SONY TEN 2 HD
+https://feed.play.mv/live/10005200/ONheoZY3w4/master.m3u8
+#EXTINF:-1 tvg- group-title="Sports",SONY TEN 3 HD
+https://feed.play.mv/live/10005200/RG2fKR6d9p/master.m3u8
+#EXTINF:-1 tvg- group-title="Sports",SONY SIX HD
+https://feed.play.mv/live/10005200/hr55LTnS53/master.m3u8
+#EXTINF:-1 tvg- group-title="Sports",EURO SPORTS HD
+https://feed.play.mv/live/1009/H92bfaXp9Z/master.m3u8
 #EXTINF:-1 tvg- group-title="BANGLA",BTV WORLD
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/btvbd-office-sg.stream/chunks.m3u8
 #EXTINF:-1 tvg- group-title="BANGLA",CHANNEL I
@@ -89,77 +93,59 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 #EXTINF:-1 tvg- group-title="BANGLA",Maasranga. 
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/mass.stream/chunks.m3u8
-#EXTINF:-1,tvg- group-title="BANGLA", News 24
+#EXTINF:-1 tvg- group-title="BANGLA",News 24
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/news24local.stream/chunks.m3u8
-#EXTINF:-1,tvgLive Sports (BDIXsports).
- http://bcdn.bdixsports.live:1935/live/event.stream/index.m3u8
-#EXTINF:-1,Siyatha TV. http://live.siyathatv.lk:19904/hls/siyatha_tv.m3u8
-#EXTINF:-1,Gazi TV  (BDIX15). 
+#EXTINF:-1 tvg- group-title="BANGLA",Gazi TV
 https://live.sonyplex.com/sonyplex/GaziTv.stream/index.m3u8
-#EXTINF:-1,Gazi TV  (BDIX17). 
+#EXTINF:-1 tvg- group-title="Bangla",Gazi TV 
 http://103.77.188.27:1935/live/gtv/index.m3u8
-#EXTINF:-1,BTV Chattagram (BDIX6). 
+#EXTINF:-1 tvg- group-title="Bangla",BTV Chattagram
 http://103.106.2.149:13456/btv_ctg.m3u8
-#EXTINF:-1,BTV (BDIX6). 
+#EXTINF:-1 tvg- group-title="Bangla",BTV (BDIX6). 
 http://103.106.2.149:13456/btv.m3u8
-#EXTINF:-1,Bijoy TV . 
+#EXTINF:-1 tvg- group-title="Bangla",Bijoy TV . 
 https://bd.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/bijoy00.stream/live-orgin/bijoy00.stream/chunks.m3u8
-#EXTINF:-1,Channel I. 
+#EXTINF:-1 tvg- group-title="Bangla",Channel I. 
 https://bd.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/channeli-8-org.stream/live-orgin/channeli-8-org.stream/chunks.m3u8
-#EXTINF:-1,Deepto TV. 
+#EXTINF:-1 tvg- group-title="Bangla",Deepto TV. 
 https://bd.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/deeptotv.stream/live-orgin/deeptotv.stream/chunks.m3u8
 #EXTINF:-1 tvg- group-title="BANGLA",DESH TV. 
 https://bd.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/deshtv.stream/live-orgin/deshtv.stream/playlist.m3u8
 #EXTINF:-1 tvg- group-title="BANGLA",EKUSHEY 
 http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
-#EXTINF:-1,Gaan Bangla.
+#EXTINF:-1 tvg- group-title="Bangla",Gaan Bangla.
 https://bd.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/gaanbangla-8-orgd.stream/live-orgin/gaanbangla-8-orgd.stream/chunks.m3u8
-#EXTINF:-1,independent TV. 
+#EXTINF:-1 tvg- group-title="Bangla",independent TV. 
 https://bd.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/independent-8-org.stream/live-orgin/independent-8-org.stream/chunks.m3u8 
-#EXTINF:-1,Jamuna TV. 
+#EXTINF:-1 tvg- group-title="Bangla",Jamuna TV. 
 https://bd.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/jamuna-test-sample-ok.stream/live-orgin/jamuna-test-sample-ok.stream/chunks.m3u8
-#EXTINF:-1,MOHONA TV. 
+#EXTINF:-1 tvg- group-title="Bangla",MOHONA TV. 
 https://bd.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/mohonatv00000223232244556633.stream/live-orgin/mohonatv00000223232244556633.stream/chunks.m3u8
 #EXTINF:-1,NTV. https://live.sonyplex.com/sonyplex/N-Tv.stream/index.m3u8
-#EXTINF:-1,Nexus TV. 
+#EXTINF:-1 tvg- group-title="Bangla",Nexus TV. 
 https://bd.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/nexustv.stream/live-orgin/nexustv.stream/chunks.m3u8
-#EXTINF:-1,RTV BD. 
+#EXTINF:-1 tvg- group-title="Bangla",RTV BD. 
 https://bd.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/rtv-sg.stream/live-orgin/rtv-sg.stream/chunks.m3u8
-#EXTINF:-1,RTV BD. 
+#EXTINF:-1 tvg- group-title="Bangla",RTV BD. 
 https://stream.cstfctg.com/rtvonline/rtv2021.stream/playlist.m3u8
-#EXTINF:-1,Sangsad Bangladesh. 
+#EXTINF:-1 tvg- group-title="Bangla",Sangsad Bangladesh. 
 http://103.106.2.149:13456/sangsad.m3u8
-#EXTINF:-1,SA TV. 
+#EXTINF:-1 tvg- group-title="Bangla",SA TV. 
 https://bd.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/satvoff5666.stream/live-orgin/satvoff5666.stream/chunks.m3u8
-#EXTINF:-1,Shomoy. 
-https://somoy.appv.jagobd.com:444/somoy/somoyt000011226615544544.stream/playlist.m3u8
-#EXTINF:-1,T sports HD. 
+#EXTINF:-1 tvg- group-title="Bangla",T sports HD. 
 https://live.sonyplex.com/sonyplex/T-SPORTS.stream/index.m3u8
-#EXTINF:-1,T sports (BDIX5). 
+#EXTINF:-1 tvg- group-title="Bangla",T sports 
 http://103.102.27.172:6464/Channel-2/index.m3u8
-#EXTINF:-1,ABP Ananda. 
-https://abp-i.akamaihd.net:443/hls/live/765530/abpananda/master.m3u8
-#EXTINF:-1,Star Jalsha HD (akamai). 
-https://yuppcatchup.akamaized.net/preview/starjalsha/1800.m3u8
-#EXTINF:-1,Sony Aath (jio. 
+#EXTINF:-1 tvg- group-title="INDIAN",Sony Aath 
 http://jo123.biz/jweb/m3u8.php?c=Sony_aath&q=600&e=junk.m3u8
-#EXTINF:-1,Colors Bangla (akamai).
- https://yuppcatchup.akamaized.net/preview/etvbengali/2500.m3u8
-#EXTINF:-1,Peace TV. 
+#EXTINF:-1 tvg- group-title="INDIAN",Colors Bangla
+https://yuppcatchup.akamaized.net/preview/etvbengali/2500.m3u8
+#EXTINF:-1 tvg- group-title="ISLAMIC",Peace TV. 
 http://82.114.67.178:8081/hls/PeaceTV.m3u8
-#EXTINF:-1,ATN Islamic (BDIX0). 
+#EXTINF:-1 tvg- group-title="ISLAMIC",ATN Islamic (BDIX0). 
 https://bd.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnislamictv.stream/live-orgin/atnislamictv.stream/chunks.m3u8
-#EXTINF:-1,Madani TV. 
+#EXTINF:-1 tvg- group-title="ISLAMIC",Madani TV. 
 https://madnitv.vdn.dstreamone.net/madnitvbangla/madnibanglaabr/madnitvbangla/madnibangla_1080p/chunks.m3u8
-#EXTINF:-1,makkah (BDIX0)
+#EXTINF:-1 tvg- group-title="ISLAMIC"Makkah
 https://bd.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/makkah.stream/live-orgin/makkah.stream/chunks.m3u8. 
-#EXTINF:-1,zee bangla. 
-https://edge4.bioscopelive.com/hls/anonymous/JT8ZesGEtOY0iGe-QV3gOA/1635588945/zee_bangla_hi/index.m3u8
-#EXTINF:-1 ,SONY TEN 2 HD
-https://feed.play.mv/live/10005200/ONheoZY3w4/master.m3u8
-#EXTINF:-1 ,SONY TEN 3 HD
-https://feed.play.mv/live/10005200/RG2fKR6d9p/master.m3u8
-#EXTINF:-1 ,SONY SIX HD
-https://feed.play.mv/live/10005200/hr55LTnS53/master.m3u8
-#EXTINF:-1 ,EURO SPORTS HD
-https://feed.play.mv/live/1009/H92bfaXp9Z/master.m3u8
+
