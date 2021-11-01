@@ -25,6 +25,8 @@ http://103.159.4.38:5868/BD-BANGLA-8/index.m3u8?token=nayeemparvez.ml&join-AllLi
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/btvbd-office-sg.stream/chunks.m3u8
 #EXTINF:-1 tvg- group-title="BANGLA",CHANNEL I
 http://103.159.4.38:5868/BD-BANGLA-1/index.m3u8
+#EXTINF:-1 tvg- group-title="BANGLA",DURONTO TV
+http://89.187.185.89:3232/ban-duronto/index.m3u8
 #EXTINF:-1 tvg- group-title="BANGLA",TV
 http://103.159.4.38:5868/BD-BANGLA-2/index.m3u8
 #EXTINF:-1 tvg- group-title="BANGLA",CHANNEL 24
@@ -85,7 +87,7 @@ http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/mass.stream/chunks.m3u8
 #EXTINF:-1,tvg- group-title="BANGLA", News 24
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/news24local.stream/chunks.m3u8
-#EXTINF:-1,Live Sports (BDIXsports).
+#EXTINF:-1,tvgLive Sports (BDIXsports).
  http://bcdn.bdixsports.live:1935/live/event.stream/index.m3u8
 #EXTINF:-1,Siyatha TV. http://live.siyathatv.lk:19904/hls/siyatha_tv.m3u8
 #EXTINF:-1,Gazi TV  (BDIX15). 
