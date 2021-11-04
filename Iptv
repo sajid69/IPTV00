@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1 tvg- group-title="Sports",RTA SPORTS
+https://prod-fastly-ap-southeast-1.video.pscp.tv/Transcoding/v1/hls/xMI7DNYXblBYsp4mqEkctvmPYSFKDAjl-C2UjoiOvnbf96lx6-z7lgTwj5Olbi0WU0nZ5SsA31Y3b-Gt2GAbQQ/non_transcode/ap-southeast-1/periscope-replay-direct-prod-ap-southeast-1-public/master_dynamic_highlatency.m3u8?type=live
+#EXTINF:-1 tvg- group-title="Sports",T Sports HD
+http://103.106.243.163:8989/tsports/index.m3u8
+#EXTINF:-1 tvg- group-title="Sports",GTV
+http://103.106.243.163:8989/gazi-tv/index.m3u8
 #EXTINF:-1 tvg- group-title="Sports",SKY CRICKET
 http://nwbz1u.ecm.tm/806B6CF/143120e/GL_UK_SKY_SPORT_CRICKET/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c38ef01782c497704995ee2d5d9f8c8b1ee552817ffe9c9c0737ed17a8209153b8d68697e2655e3e2c0998d3656aa486942d7e827b15fd6a597692846a469abeb0c187477610352ca5660eae1069fd75c420156fc7f5b86f079c1f74149332ce34408d31d59a187c8
 #EXTINF:-1 tvg- group-title="Sports",STAR SPORTS 1 HINDI
@@ -15,8 +21,6 @@ https://edge01.iptv.digijadoo.net/live/t_sports/chunks.m3u8?expires=1636081281&m
 http://103.77.188.27:1935/live/gtv/index.m3u8
 #EXTINF:-1 tvg- group-title="Sports",Gazi TV  
 https://live.sonyplex.com/sonyplex/GaziTv.stream/index.m3u8
-#EXTINF:-1 tvg- group-title="Sports",Fox 501  
-http://104.224.77.164/live/rb0zYNF5GQ/FGWoCyPvwt/2180746.m3u8?token=Nayeem-Parvez&token=ShoOVBAJRF5AAFMGCgIAWlVXBQANUlEDDVwADVRWDFoIAQdRB1lUAFREHhBLEBAGVQtuXlAVWAcIXVMPUgEUQURLA0c8CAJGWEQDAwpRW0EYREVeWVJADwlJQUgPUxpZEwFVAFJDSkYHHkZXSgoDD2sCVEFdVAcXAwsWVAobGgxfZwJQDgAIAEBcEAIaSEAKRxYTDVpCDlkVRwFREkVZF1QaXBdQVl5dQEoQUVcRDBdGHxMNFmIxFxVHBkASUlYQWFcIF1lDC1cXXhAeGg0RPEYDQkNGUgNYXBdBAkQHGk8TVQdNPAIJCgwDUUZRCwwQFlwTBBYbQFhWCwpMCUVnE1hcRA9BWFRSW0RP
 #EXTINF:-1 tvg- group-title="Sports",ASTRO CRICKET
 http://nwbz1u.ecm.tm/806B6CF/84137e/SK_MA_ASTRO_SUPER_SPORT_CRICKET/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c3be801782c27ff83d6c3d8086796083c9e4eae0718a96e35a78db35fc417891f79725c21b88b1da11a64ac33705b66d7f50ff103affd5a58ef48256855a8ba8eae22ac6594c65d6bb7c33e329027c7364d6cc809fa887c8464d715b237c7e50e07a64eff32421d00c4de17b8b06ce5
 #EXTINF:-1 tvg- group-title="Sports",Siyatha Tv
