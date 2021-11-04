@@ -125,4 +125,7 @@ https://yuppcatchup.akamaized.net/preview/etvbengali/2500.m3u8
 http://82.114.67.178:8081/hls/PeaceTV.m3u8
 #EXTINF:-1 tvg- group-title="DOCUMENTARY",NAT GEO BANGLA
 https://last.gcdn.co/IND414/index.m3u8
+#EXTINF:-1 tvg- group-title="DOCUMENTARY",DISCOVERY BANGLA
+https://last.gcdn.co/IND415/index.m3u8
+
 
