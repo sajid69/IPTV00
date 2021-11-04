@@ -5,10 +5,6 @@ https://prod-fastly-ap-southeast-1.video.pscp.tv/Transcoding/v1/hls/xMI7DNYXblBY
 http://103.106.243.163:8989/tsports/index.m3u8
 #EXTINF:-1 tvg- group-title="Sports",GTV
 http://103.106.243.163:8989/gazi-tv/index.m3u8
-#EXTINF:-1 tvg- group-title="Sports",SKY CRICKET
-http://nwbz1u.ecm.tm/806B6CF/143120e/GL_UK_SKY_SPORT_CRICKET/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c38ef01782c497704995ee2d5d9f8c8b1ee552817ffe9c9c0737ed17a8209153b8d68697e2655e3e2c0998d3656aa486942d7e827b15fd6a597692846a469abeb0c187477610352ca5660eae1069fd75c420156fc7f5b86f079c1f74149332ce34408d31d59a187c8
-#EXTINF:-1 tvg- group-title="Sports",STAR SPORTS 1 HINDI
-http://nwbz1u.ecm.tm/806B6CF/14295e/cricket_1/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c39ea01782ca0560ef969081f5bf98ed30fa9d2da075f20b16ea5c711cb0f39bd15938e80beea05080c7c9986533c965d2df2e9cb6f48203323b29cea3e9e4f4adfb2be1ed7c13a30ef8c66ea6869755bd5bb4d16405cd81105
 #EXTINF:-1 tvg- group-title="Sports",A Sports
 http://221.120.204.4/LOCKLE-A-SPORTS/index.m3u8
 #EXTINF:-1 tvg- group-title="Sports",T SPORTS
@@ -21,14 +17,10 @@ https://edge01.iptv.digijadoo.net/live/t_sports/chunks.m3u8?expires=1636081281&m
 http://103.77.188.27:1935/live/gtv/index.m3u8
 #EXTINF:-1 tvg- group-title="Sports",Gazi TV  
 https://live.sonyplex.com/sonyplex/GaziTv.stream/index.m3u8
-#EXTINF:-1 tvg- group-title="Sports",ASTRO CRICKET
-http://nwbz1u.ecm.tm/806B6CF/84137e/SK_MA_ASTRO_SUPER_SPORT_CRICKET/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c3be801782c27ff83d6c3d8086796083c9e4eae0718a96e35a78db35fc417891f79725c21b88b1da11a64ac33705b66d7f50ff103affd5a58ef48256855a8ba8eae22ac6594c65d6bb7c33e329027c7364d6cc809fa887c8464d715b237c7e50e07a64eff32421d00c4de17b8b06ce5
 #EXTINF:-1 tvg- group-title="Sports",Siyatha Tv
 http://live.siyathatv.lk:19904/hls/siyatha_tv.m3u8
 #EXTINF:-1 tvg- group-title="Sports",ATNNAT
 https://last.gcdn.co/IND469/index.m3u8
-#EXTINF:-1 tvg- group-title="Sports",BTV
-http://103.159.4.38:5868/BD-BANGLA-8/index.m3u8?token=nayeemparvez.ml&join-AllLiveSportsLinks=
 #EXTINF:-1 tvg- group-title="Sports",SONY TEN 2 HD
 https://feed.play.mv/live/10005200/ONheoZY3w4/master.m3u8
 #EXTINF:-1 tvg- group-title="Sports",SONY TEN 3 HD
@@ -125,6 +117,8 @@ https://bd.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92Y
 https://bd.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/deshtv.stream/live-orgin/deshtv.stream/playlist.m3u8
 #EXTINF:-1 tvg- group-title="BANGLA",EKUSHEY 
 http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
+#EXTINF:-1 tvg- group-title="Bangla",Ekattor tv
+https://last.gcdn.co/IND429/index.m3u8
 #EXTINF:-1 tvg- group-title="Bangla",Gaan Bangla.
 https://bd.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/gaanbangla-8-orgd.stream/live-orgin/gaanbangla-8-orgd.stream/chunks.m3u8
 #EXTINF:-1 tvg- group-title="Bangla",independent TV. 
@@ -142,6 +136,7 @@ https://bd.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92Y
 https://stream.cstfctg.com/rtvonline/rtv2021.stream/playlist.m3u8
 #EXTINF:-1 tvg- group-title="Bangla",Sangsad Bangladesh. 
 http://103.106.2.149:13456/sangsad.m3u8
+
 #EXTINF:-1 tvg- group-title="Bangla",SA TV. 
 https://bd.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/satvoff5666.stream/live-orgin/satvoff5666.stream/chunks.m3u8
 #EXTINF:-1 tvg- group-title="Bangla",T sports HD. 
