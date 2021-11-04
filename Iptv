@@ -123,10 +123,6 @@ http://jo123.biz/jweb/m3u8.php?c=Sony_aath&q=600&e=junk.m3u8
 https://yuppcatchup.akamaized.net/preview/etvbengali/2500.m3u8
 #EXTINF:-1 tvg- group-title="ISLAMIC",Peace TV. 
 http://82.114.67.178:8081/hls/PeaceTV.m3u8
-#EXTINF:-1 tvg- group-title="ISLAMIC",ATN Islamic (BDIX0). 
-https://bd.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnislamictv.stream/live-orgin/atnislamictv.stream/chunks.m3u8
-#EXTINF:-1 tvg- group-title="ISLAMIC",Madani TV. 
-https://madnitv.vdn.dstreamone.net/madnitvbangla/madnibanglaabr/madnitvbangla/madnibangla_1080p/chunks.m3u8
-#EXTINF:-1 tvg- group-title="ISLAMIC",Makkah
-https://bd.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/makkah.stream/live-orgin/makkah.stream/chunks.m3u8. 
+#EXTINF:-1 tvg- group-title="DOCUMENTARY",NAT GEO BANGLA
+https://last.gcdn.co/IND414/index.m3u8
 
