@@ -3,16 +3,18 @@
 https://prod-fastly-ap-southeast-1.video.pscp.tv/Transcoding/v1/hls/xMI7DNYXblBYsp4mqEkctvmPYSFKDAjl-C2UjoiOvnbf96lx6-z7lgTwj5Olbi0WU0nZ5SsA31Y3b-Gt2GAbQQ/non_transcode/ap-southeast-1/periscope-replay-direct-prod-ap-southeast-1-public/master_dynamic_highlatency.m3u8?type=live
 #EXTINF:-1 tvg- group-title="Sports",T Sports HD
 http://103.106.243.163:8989/tsports/index.m3u8
-#EXTINF:-1 tvg- group-title="Sports",GTV
-http://103.106.243.163:8989/gazi-tv/index.m3u8
-#EXTINF:-1 tvg- group-title="Sports",A Sports
-http://221.120.204.4/LOCKLE-A-SPORTS/index.m3u8
+#EXTINF:-1 tvg- group-title="Sports",T sports HD. 
+https://live.sonyplex.com/sonyplex/T-SPORTS.stream/index.m3u8
 #EXTINF:-1 tvg- group-title="Sports",T SPORTS
 http://103.159.4.38:5868/BD-BANGLA-11/index.m3u8
+#EXTINF:-1 tvg- group-title="Sports",GTV
+http://103.106.243.163:8989/gazi-tv/index.m3u8
 #EXTINF:-1 tvg- group-title="Sports",Gazi TV  
 http://103.77.188.27:1935/live/gtv/index.m3u8
 #EXTINF:-1 tvg- group-title="Sports",Gazi TV  
 https://live.sonyplex.com/sonyplex/GaziTv.stream/index.m3u8
+#EXTINF:-1 tvg- group-title="Sports",A Sports
+http://221.120.204.4/LOCKLE-A-SPORTS/index.m3u8
 #EXTINF:-1 tvg- group-title="Sports",Siyatha Tv
 http://live.siyathatv.lk:19904/hls/siyatha_tv.m3u8
 #EXTINF:-1 tvg- group-title="Sports",ATNNAT
@@ -29,30 +31,26 @@ https://feed.play.mv/live/1009/H92bfaXp9Z/master.m3u8
 http://103.159.4.38:5868/BD-BANGLA-1/index.m3u8
 #EXTINF:-1 tvg- group-title="BANGLA",EKATTOR
 https://live.sonyplex.com/sonyplex/Ekattor-TV.stream/index.m3u8
+#EXTINF:-1 tvg- group-title="BANGLA",EKATTOR
+http://103.106.243.163:8989/ekattor/index.m3u8
+#EXTINF:-1 tvg- group-title="BANGLA",Ekattor tv
+http://103.159.4.38:5868/BD-BANGLA-7/index.m3u8
+#EXTINF:-1 tvg- group-title="BANGLA",Ekattor tv
+https://last.gcdn.co/IND429/index.m3u8
 #EXTINF:-1 tvg- group-title="BANGLA",DURONTO TV
 http://89.187.185.89:3232/ban-duronto/index.m3u8
-#EXTINF:-1 tvg- group-title="BANGLA",TV
-http://103.159.4.38:5868/BD-BANGLA-2/index.m3u8
+#EXTINF:-1 tvg- group-title="BANGLA",DURONTO TV
+http://103.106.243.163:8989/duronto-tv/index.m3u8
 #EXTINF:-1 tvg- group-title="BANGLA",CHANNEL 24
 http://103.159.4.38:5868/BD-BANGLA-3/index.m3u8
 #EXTINF:-1 tvg- group-title="BANGLA",JAMUNA TV
 http://103.159.4.38:5868/BD-BANGLA-4/index.m3u8
-#EXTINF:-1 tvg- group-title="BANGLA",TV
-http://103.159.4.38:5868/BD-BANGLA-5/index.m3u8
 #EXTINF:-1 tvg- group-title="BANGLA",ATN BANGLA
 http://103.159.4.38:5868/BD-BANGLA-6/index.m3u8
-#EXTINF:-1 tvg- group-title="BANGLA",EKATTOR TV
-http://103.159.4.38:5868/BD-BANGLA-7/index.m3u8
-#EXTINF:-1 tvg- group-title="BANGLA",Ekattor tv
-https://last.gcdn.co/IND429/index.m3u8
 #EXTINF:-1 tvg- group-title="BANGLA",BTV
 http://103.159.4.38:5868/BD-BANGLA-8/index.m3u8
-#EXTINF:-1 tvg- group-title="BANGLA",TV
-http://103.159.4.38:5868/BD-BANGLA-9/index.m3u8
 #EXTINF:-1 tvg- group-title="BANGLA",BOISHAKI TV
 http://103.159.4.38:5868/BD-BANGLA-10/index.m3u8
-#EXTINF:-1 tvg- group-title="BANGLA",T SPORTS
-http://103.159.4.38:5868/BD-BANGLA-11/index.m3u8
 #EXTINF:-1 tvg- group-title="BANGLA",NEWS 24
 http://103.159.4.38:5868/BD-BANGLA-12/index.m3u8
 #EXTINF:-1 tvg- group-title="BANGLA",DBC
@@ -63,14 +61,14 @@ http://103.159.4.38:5868/BD-BANGLA-14/index.m3u8
 http://103.159.4.38:5868/BD-BANGLA-15/index.m3u8
 #EXTINF:-1 tvg- group-title="BANGLA",EKUSHEY TV
 http://103.159.4.38:5868/BD-BANGLA-16/index.m3u8
+#EXTINF:-1 tvg- group-title="BANGLA",EKUSHEY 
+http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 #EXTINF:-1 tvg- group-title="BANGLA",BANGLA TV
 http://103.159.4.38:5868/BD-BANGLA-17/index.m3u8
 #EXTINF:-1 tvg- group-title="BANGLA",NTV
 http://103.159.4.38:5868/BD-BANGLA-18/index.m3u8
 #EXTINF:-1 tvg- group-title="BANGLA",Ntv
 https://live.sonyplex.com/sonyplex/N-Tv.stream/index.m3u8
-##EXTINF:-1 tvg- group-title="BANGLA",EKUSHEY 
-http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 #EXTINF:-1 tvg- group-title="BANGLA",Gazi TV
 https://live.sonyplex.com/sonyplex/GaziTv.stream/index.m3u8
 #EXTINF:-1 tvg- group-title="BANGLA",Gazi TV 
@@ -79,16 +77,10 @@ http://103.77.188.27:1935/live/gtv/index.m3u8
 http://103.106.2.149:13456/btv_ctg.m3u8
 #EXTINF:-1 tvg- group-title="BANGLA",BTV (BDIX6). 
 http://103.106.2.149:13456/btv.m3u8
-#EXTINF:-1 tvg- group-title="BANGLA",EKUSHEY 
-http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 #EXTINF:-1 tvg- group-title="BANGLA",RTV BD. 
 https://stream.cstfctg.com/rtvonline/rtv2021.stream/playlist.m3u8
 #EXTINF:-1 tvg- group-title="BANGLA",Sangsad Bangladesh. 
 http://103.106.2.149:13456/sangsad.m3u8
-#EXTINF:-1 tvg- group-title="BANGLA",T sports HD. 
-https://live.sonyplex.com/sonyplex/T-SPORTS.stream/index.m3u8
-#EXTINF:-1 tvg- group-title="BANGLA",T sports 
-http://103.102.27.172:6464/Channel-2/index.m3u8
 #EXTINF:-1 tvg- group-title="INDIAN",Sony Aath 
 http://jo123.biz/jweb/m3u8.php?c=Sony_aath&q=600&e=junk.m3u8
 #EXTINF:-1 tvg- group-title="INDIAN",Colors Bangla
