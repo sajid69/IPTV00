@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg- group-title="Sports",RTA SPORTS
-https://prod-fastly-ap-southeast-1.video.pscp.tv/Transcoding/v1/hls/xMI7DNYXblBYsp4mqEkctvmPYSFKDAjl-C2UjoiOvnbf96lx6-z7lgTwj5Olbi0WU0nZ5SsA31Y3b-Gt2GAbQQ/non_transcode/ap-southeast-1/periscope-replay-direct-prod-ap-southeast-1-public/master_dynamic_highlatency.m3u8?type=live
+#EXTINF:-1 tvg- group-title="Sports",HOTSTAR 
+https://prod-fastly-ap-southeast-1.video.pscp.tv/Transcoding/v1/hls/xTwjRZyOmlUOwzPl2A8zO2YBG2bI_TTRYDcTN43HJJE3D1LxcZtGuUKzR1WE0GAWcDdCx_8Z0xpR743XvCZFcg/transcode/ap-southeast-1/periscope-replay-direct-live/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18xMDgwcDMwXzEwIiwiSGVpZ2h0IjoxMDgwLCJLYnBzIjo1NTAwLCJXaWR0aCI6MTkyMH0.OImMZabKYJ0cs9CnIapU-4aBk6KNBiJxi1hh-6l4BZ4/dynamic_highlatency.m3u8?type=live
 #EXTINF:-1 tvg- group-title="Sports",STAR SPORTS 1
 http://212.102.60.40:2200/EX/starsports1hd-in/index.m3u8
 #EXTINF:-1 tvg- group-title="Sports",STAR SPORTS 2
