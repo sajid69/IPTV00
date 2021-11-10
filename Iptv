@@ -1,28 +1,14 @@
 #EXTM3U
-#EXTINF:-1 tvg- group-title="Sports",HOTSTAR 
-https://prod-fastly-ap-southeast-1.video.pscp.tv/Transcoding/v1/hls/xTwjRZyOmlUOwzPl2A8zO2YBG2bI_TTRYDcTN43HJJE3D1LxcZtGuUKzR1WE0GAWcDdCx_8Z0xpR743XvCZFcg/transcode/ap-southeast-1/periscope-replay-direct-live/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18xMDgwcDMwXzEwIiwiSGVpZ2h0IjoxMDgwLCJLYnBzIjo1NTAwLCJXaWR0aCI6MTkyMH0.OImMZabKYJ0cs9CnIapU-4aBk6KNBiJxi1hh-6l4BZ4/dynamic_highlatency.m3u8?type=live
-#EXTINF:-1 tvg- group-title="Sports",STAR SPORTS 1
-http://212.102.60.40:2200/EX/starsports1hd-in/index.m3u8
-#EXTINF:-1 tvg- group-title="Sports",STAR SPORTS 2
-http://212.102.60.40:2200/EX/starsports2hd-in/index.m3u8
-#EXTINF:-1 tvg- group-title="Sports",T Sports HD
-http://103.106.243.163:8989/tsports/index.m3u8
-#EXTINF:-1 tvg- group-title="Sports",T sports HD. 
-https://live.sonyplex.com/sonyplex/T-SPORTS.stream/index.m3u8
+#EXTINF:-1 tvg- group-title="Sports",TEN SPORTS
+http://89.187.162.89/Capital_Music/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg- group-title="Sports",SKY SPORTS CRICKET
+http://93.152.174.144:4000/play/skysports2/index.m3u8
 #EXTINF:-1 tvg- group-title="Sports",T SPORTS
 http://103.159.4.38:5868/BD-BANGLA-11/index.m3u8
-#EXTINF:-1 tvg- group-title="Sports",GTV
-http://103.106.243.163:8989/gazi-tv/index.m3u8
-#EXTINF:-1 tvg- group-title="Sports",Gazi TV  
-http://103.77.188.27:1935/live/gtv/index.m3u8
-#EXTINF:-1 tvg- group-title="Sports",Gazi TV  
-https://live.sonyplex.com/sonyplex/GaziTv.stream/index.m3u8
 #EXTINF:-1 tvg- group-title="Sports",A Sports
 http://221.120.204.4/LOCKLE-A-SPORTS/index.m3u8
 #EXTINF:-1 tvg- group-title="Sports",Siyatha Tv
 http://live.siyathatv.lk:19904/hls/siyatha_tv.m3u8
-#EXTINF:-1 tvg- group-title="Sports",ATNNAT
-https://last.gcdn.co/IND469/index.m3u8
 #EXTINF:-1 tvg- group-title="Sports",SONY TEN 1 HD
 https://feed.play.mv/live/10005200/fMLTkj4OJC/master.m3u8
 #EXTINF:-1 tvg- group-title="Sports",SONY TEN 2 HD
