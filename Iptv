@@ -5,6 +5,10 @@ http://89.187.162.89/Capital_Music/tracks-v1a1/mono.m3u8
 http://93.152.174.144:4000/play/skysports2/index.m3u8
 #EXTINF:-1 tvg- group-title="Sports",T SPORTS
 http://103.159.4.38:5868/BD-BANGLA-11/index.m3u8
+#EXTINF:-1 tvg- group-title="Sports",G TV
+http://103.77.188.27:1935/live/gtv/index.m3u8
+#EXTINF:-1 tvg- group-title="Sports",G TV
+http://103.159.4.38:5868/BD-BANGLA-8/index.m3u8
 #EXTINF:-1 tvg- group-title="Sports",A Sports
 http://221.120.204.4/LOCKLE-A-SPORTS/index.m3u8
 #EXTINF:-1 tvg- group-title="Sports",Siyatha Tv
