@@ -7,6 +7,8 @@ https://vkvsd43.mycdn.me/hls/1784715545286.m3u8/sig/hh2VOgQxtgE/expires/16367240
 http://103.161.104.252:2322/T-Sports_ENC/video.m3u8
 #EXTINF:-1 tvg- group-title="Sports",T SPORTS
 http://103.115.135.126/0.m3u8
+#EXTINF:-1 tvg- group-title="Sports",GTV
+https://dash.nowhdtime.com.bd/gtvlive/tracks-v1a1/mono.m3u8?token=25ed41b92cb8571dbead3873dd35205a5f42b771-1b00c3faba7293c4094f123afef2677c-1636660237-1636649437
 #EXTINF:-1 tvg- group-title="Sports",STAR SPORTS 1
 https://gtv.banglatv.xyz:2096/bdiptv.stream/LiveSports/playlist.m3u8?token=0558356b27398f74c6bf8c3be801782c27ff83d6c3d8086796083c9e4eae0718a96e35a78db35fc417891f79725c21b88b1da11a64ac33705b66d7f50ff103affd5a58ef48256855a8ba8eae22ac6594c65d6bb7c33e329027c7364d6cc809fa887c8464d715b237c7e50e07a64eff32421d00c4de17b8b06ce5
 #EXTINF:-1 tvg- group-title="Sports",TEN SPORTS
