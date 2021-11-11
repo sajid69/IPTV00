@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg- group-title="Sports",HOTSTAR ENGLISH
 https://prod-fastly-ap-southeast-1.video.pscp.tv/Transcoding/v1/hls/fUJC3sJx0-e-urRijfQ6g8nZeS7uLBwFfSpLnBhEpjLZNnp63oaIsS-gD59EuVEz-oSnt4IiEBzWmILX8UU_mA/non_transcode/us-west-2/periscope-replay-direct-live/master_dynamic_highlatency.m3u8?type=live
+#EXTINF:-1 tvg- group-title="Sports",PAK VS AUS
+https://vkvsd43.mycdn.me/hls/1784715545286.m3u8/sig/hh2VOgQxtgE/expires/1636724072065/srcIp/157.35.46.240/clientType/13/srcAg/CHROME_ANDROID/mid/3000039975878/1784715545286_high/index.m3u8
 #EXTINF:-1 tvg- group-title="Sports",T SPORTS
 http://103.161.104.252:2322/T-Sports_ENC/video.m3u8
 #EXTINF:-1 tvg- group-title="Sports",STAR SPORTS 1
