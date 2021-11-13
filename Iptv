@@ -102,6 +102,8 @@ http://uknet.ddns.net/904.stream/index.m3u8
 https://last.gcdn.co/IND390/index.m3u8
 #EXTINF:-1 tvg- group-title="INDIAN",Star Jalsha
 https://last.gcdn.co/IND391/index.m3u8
+#EXTINF:-1 tvg- group-title="INDIAN",SONGIT BANGLA
+https://last.gcdn.co/IND405/index.m3u8
 #EXTINF:-1 tvg- group-title="ISLAMIC",Peace TV. 
 http://82.114.67.178:8081/hls/PeaceTV.m3u8
 #EXTINF:-1 tvg- group-title="DOCUMENTARY",NAT GEO BANGLA
