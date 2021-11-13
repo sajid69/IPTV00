@@ -28,6 +28,8 @@ http://tv.alphamediazone.com:8089/thunderbd/22/index.m3u8
 https://feed.play.mv/live/10005200/hr55LTnS53/master.m3u8
 #EXTINF:-1 tvg- group-title="Sports",EURO SPORTS HD
 https://feed.play.mv/live/1009/H92bfaXp9Z/master.m3u8
+#EXTINF:-1 tvg- group-title="Sports",FUBO SPORTS
+http://ent.gcdn.co/S11/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg- group-title="BANGLA",CHANNEL I
 http://103.159.4.38:5868/BD-BANGLA-1/index.m3u8
 #EXTINF:-1 tvg- group-title="BANGLA",CHANNEL I (2)
