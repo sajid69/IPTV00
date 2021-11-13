@@ -1,13 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg- group-title="Sports",HOTSTAR ENGLISH
-https://prod-fastly-ap-southeast-1.video.pscp.tv/Transcoding/v1/hls/fUJC3sJx0-e-urRijfQ6g8nZeS7uLBwFfSpLnBhEpjLZNnp63oaIsS-gD59EuVEz-oSnt4IiEBzWmILX8UU_mA/non_transcode/us-west-2/periscope-replay-direct-live/master_dynamic_highlatency.m3u8?type=live
-#EXTINF:-1 tvg- group-title="Sports",PAK VS AUS
-https://vkvsd43.mycdn.me/hls/1784715545286.m3u8/sig/hh2VOgQxtgE/expires/1636724072065/srcIp/157.35.46.240/clientType/13/srcAg/CHROME_ANDROID/mid/3000039975878/1784715545286_high/index.m3u8
-#EXTINF:-1 tvg- group-title="Sports",T SPORTS
-http://103.161.104.252:2322/T-Sports_ENC/video.m3u8
-#EXTINF:-1 tvg- group-title="Sports",T SPORTS
-http://103.115.135.126/0.m3u8
-#EXTINF:-1 tvg- group-title="Sports",GTV
 https://dash.nowhdtime.com.bd/gtvlive/tracks-v1a1/mono.m3u8?token=25ed41b92cb8571dbead3873dd35205a5f42b771-1b00c3faba7293c4094f123afef2677c-1636660237-1636649437
 #EXTINF:-1 tvg- group-title="Sports",STAR SPORTS 1
 https://gtv.banglatv.xyz:2096/bdiptv.stream/LiveSports/playlist.m3u8?token=0558356b27398f74c6bf8c3be801782c27ff83d6c3d8086796083c9e4eae0718a96e35a78db35fc417891f79725c21b88b1da11a64ac33705b66d7f50ff103affd5a58ef48256855a8ba8eae22ac6594c65d6bb7c33e329027c7364d6cc809fa887c8464d715b237c7e50e07a64eff32421d00c4de17b8b06ce5
@@ -16,8 +7,6 @@ http://89.187.162.89/Capital_Music/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg- group-title="Sports",T SPORTS
 http://103.159.4.38:5868/BD-BANGLA-11/index.m3u8
 #EXTINF:-1 tvg- group-title="Sports",G TV
-http://103.77.188.27:1935/live/gtv/index.m3u8
-#EXTINF:-1 tvg- group-title="Sports",G TV
 http://103.159.4.38:5868/BD-BANGLA-8/index.m3u8
 #EXTINF:-1 tvg- group-title="Sports",A Sports
 http://221.120.204.4/LOCKLE-A-SPORTS/index.m3u8
@@ -25,10 +14,16 @@ http://221.120.204.4/LOCKLE-A-SPORTS/index.m3u8
 http://live.siyathatv.lk:19904/hls/siyatha_tv.m3u8
 #EXTINF:-1 tvg- group-title="Sports",SONY TEN 1 HD
 https://feed.play.mv/live/10005200/fMLTkj4OJC/master.m3u8
+#EXTINF:-1 tvg- group-title="Sports",SONY TEN 1 HD(2)
+http://tv.alphamediazone.com:8089/thunderbd/20/index.m3u8
 #EXTINF:-1 tvg- group-title="Sports",SONY TEN 2 HD
 https://feed.play.mv/live/10005200/ONheoZY3w4/master.m3u8
+#EXTINF:-1 tvg- group-title="Sports",SONY TEN 2 HD(2)
+http://tv.alphamediazone.com:8089/thunderbd/21/index.m3u8
 #EXTINF:-1 tvg- group-title="Sports",SONY TEN 3 HD
 https://feed.play.mv/live/10005200/RG2fKR6d9p/master.m3u8
+#EXTINF:-1 tvg- group-title="Sports",SONY TEN 3 HD(2)
+http://tv.alphamediazone.com:8089/thunderbd/22/index.m3u8
 #EXTINF:-1 tvg- group-title="Sports",SONY SIX HD
 https://feed.play.mv/live/10005200/hr55LTnS53/master.m3u8
 #EXTINF:-1 tvg- group-title="Sports",EURO SPORTS HD
@@ -75,10 +70,8 @@ http://103.159.4.38:5868/BD-BANGLA-17/index.m3u8
 http://103.159.4.38:5868/BD-BANGLA-18/index.m3u8
 #EXTINF:-1 tvg- group-title="BANGLA",Ntv
 https://live.sonyplex.com/sonyplex/N-Tv.stream/index.m3u8
-#EXTINF:-1 tvg- group-title="BANGLA",Gazi TV
-https://live.sonyplex.com/sonyplex/GaziTv.stream/index.m3u8
-#EXTINF:-1 tvg- group-title="BANGLA",Gazi TV 
-http://103.77.188.27:1935/live/gtv/index.m3u8
+#EXTINF:-1 tvg- group-title="BANGLA",N TV
+https://a.jsrdn.com/broadcast/22680_3BR3zocwi9/-0800/c.m3u8
 #EXTINF:-1 tvg- group-title="BANGLA",BTV Chattagram
 http://103.106.2.149:13456/btv_ctg.m3u8
 #EXTINF:-1 tvg- group-title="BANGLA",BTV (BDIX6). 
@@ -90,7 +83,7 @@ http://103.106.2.149:13456/sangsad.m3u8
 #EXTINF:-1 tvg- group-title="INDIAN",Sony Aath 
 http://jo123.biz/jweb/m3u8.php?c=Sony_aath&q=600&e=junk.m3u8
 #EXTINF:-1 tvg- group-title="INDIAN",Colors Bangla
-https://yuppcatchup.akamaized.net/preview/etvbengali/2500.m3u8
+http://uknet.ddns.net/904.stream/index.m3u8
 #EXTINF:-1 tvg- group-title="ISLAMIC",Peace TV. 
 http://82.114.67.178:8081/hls/PeaceTV.m3u8
 #EXTINF:-1 tvg- group-title="DOCUMENTARY",NAT GEO BANGLA
