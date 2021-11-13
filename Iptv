@@ -30,6 +30,8 @@ https://feed.play.mv/live/10005200/hr55LTnS53/master.m3u8
 https://feed.play.mv/live/1009/H92bfaXp9Z/master.m3u8
 #EXTINF:-1 tvg- group-title="BANGLA",CHANNEL I
 http://103.159.4.38:5868/BD-BANGLA-1/index.m3u8
+#EXTINF:-1 tvg- group-title="BANGLA",CHANNEL I (2)
+https://last.gcdn.co/IND419/index.m3u8
 #EXTINF:-1 tvg- group-title="BANGLA",EKATTOR
 https://live.sonyplex.com/sonyplex/Ekattor-TV.stream/index.m3u8
 #EXTINF:-1 tvg- group-title="BANGLA",EKATTOR
@@ -38,20 +40,30 @@ http://103.106.243.163:8989/ekattor/index.m3u8
 http://103.159.4.38:5868/BD-BANGLA-7/index.m3u8
 #EXTINF:-1 tvg- group-title="BANGLA",Ekattor tv
 https://last.gcdn.co/IND429/index.m3u8
+#EXTINF:-1 tvg- group-title="BANGLA",Somoy Tv
+https://last.gcdn.co/IND418/index.m3u8
 #EXTINF:-1 tvg- group-title="BANGLA",DURONTO TV
 http://89.187.185.89:3232/ban-duronto/index.m3u8
 #EXTINF:-1 tvg- group-title="BANGLA",DURONTO TV
 http://103.106.243.163:8989/duronto-tv/index.m3u8
+#EXTINF:-1 tvg- group-title="BANGLA",NAGORIK TV
+https://last.gcdn.co/IND433/index.m3u8
 #EXTINF:-1 tvg- group-title="BANGLA",CHANNEL 24
 http://103.159.4.38:5868/BD-BANGLA-3/index.m3u8
+#EXTINF:-1 tvg- group-title="BANGLA",CHANNEL 24 (2)
+https://last.gcdn.co/IND431/index.m3u8
 #EXTINF:-1 tvg- group-title="BANGLA",JAMUNA TV
 http://103.159.4.38:5868/BD-BANGLA-4/index.m3u8
+#EXTINF:-1 tvg- group-title="BANGLA",INDEPENDENT TV
+https://last.gcdn.co/IND430/index.m3u8
 #EXTINF:-1 tvg- group-title="BANGLA",ATN BANGLA
 http://103.159.4.38:5868/BD-BANGLA-6/index.m3u8
 #EXTINF:-1 tvg- group-title="BANGLA",BTV
 http://103.159.4.38:5868/BD-BANGLA-8/index.m3u8
 #EXTINF:-1 tvg- group-title="BANGLA",BOISHAKI TV
 http://103.159.4.38:5868/BD-BANGLA-10/index.m3u8
+#EXTINF:-1 tvg- group-title="BANGLA",ASIAN TV
+https://last.gcdn.co/IND451/index.m3u8
 #EXTINF:-1 tvg- group-title="BANGLA",NEWS 24
 http://103.159.4.38:5868/BD-BANGLA-12/index.m3u8
 #EXTINF:-1 tvg- group-title="BANGLA",DBC
@@ -72,6 +84,8 @@ http://103.159.4.38:5868/BD-BANGLA-18/index.m3u8
 https://live.sonyplex.com/sonyplex/N-Tv.stream/index.m3u8
 #EXTINF:-1 tvg- group-title="BANGLA",N TV
 https://a.jsrdn.com/broadcast/22680_3BR3zocwi9/-0800/c.m3u8
+#EXTINF:-1 tvg- group-title="BANGLA",N TV
+https://last.gcdn.co/IND420/index.m3u8
 #EXTINF:-1 tvg- group-title="BANGLA",BTV Chattagram
 http://103.106.2.149:13456/btv_ctg.m3u8
 #EXTINF:-1 tvg- group-title="BANGLA",BTV (BDIX6). 
@@ -84,9 +98,15 @@ http://103.106.2.149:13456/sangsad.m3u8
 http://jo123.biz/jweb/m3u8.php?c=Sony_aath&q=600&e=junk.m3u8
 #EXTINF:-1 tvg- group-title="INDIAN",Colors Bangla
 http://uknet.ddns.net/904.stream/index.m3u8
+#EXTINF:-1 tvg- group-title="INDIAN",Zee Bangla
+https://last.gcdn.co/IND390/index.m3u8
+#EXTINF:-1 tvg- group-title="INDIAN",Star Jalsha
+https://last.gcdn.co/IND391/index.m3u8
 #EXTINF:-1 tvg- group-title="ISLAMIC",Peace TV. 
 http://82.114.67.178:8081/hls/PeaceTV.m3u8
 #EXTINF:-1 tvg- group-title="DOCUMENTARY",NAT GEO BANGLA
 https://last.gcdn.co/IND414/index.m3u8
 #EXTINF:-1 tvg- group-title="DOCUMENTARY",DISCOVERY BANGLA
 https://last.gcdn.co/IND415/index.m3u8
+#EXTINF:-1 tvg- group-title="DOCUMENTARY",DISCOVERY BANGLA (2)
+https://236s.short.gy/DreamTV/DisBangla.m3u8
