@@ -12,6 +12,12 @@ https://38q.gcdn.co/WC20/index.m3u8
 https://38q.gcdn.co/WC21/index.m3u8 
 #EXTINF:-1 tvg- group-title="Sports",SUPER SPORTS 
 https://38q.gcdn.co/WC25/index.m3u8
+#EXTINF:-1 tvg- group-title="Sports",WILLOW
+https://38q.gcdn.co/WC3/index.m3u8
+#EXTINF:-1 tvg- group-title="Sports",WILLOW XTRA
+https://38q.gcdn.co/WC4/index.m3u8
+#EXTINF:-1 tvg- group-title="Sports",ASTRO CRICKET
+https://38q.gcdn.co/WC5/index.m3u8
 #EXTINF:-1 tvg- group-title="Sports",TEN SPORTS
 http://89.187.162.89/Capital_Music/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg- group-title="Sports",T SPORTS
