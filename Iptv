@@ -1,7 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg- group-title="Sports",HOTSTAR 
-https://prod-fastly-ap-southeast-1.video.pscp.tv/Transcoding/v1/hls/vgJ7PvxEkmcqeBUVQSuREQnCZ_-KulnEsj_LYoEUGKBALWqLK933qsjBvrd1x0IZvWBTtyF6DscptpdbWsX50Q/non_transcode/us-west-2/periscope-replay-direct-live/master_dynamic_highlatency.m3u8?type=live
-https://dash.nowhdtime.com.bd/gtvlive/tracks-v1a1/mono.m3u8?token=25ed41b92cb8571dbead3873dd35205a5f42b771-1b00c3faba7293c4094f123afef2677c-1636660237-1636649437
+#EXTINF:-1 tvg- group-title="Sports",HOTSTAR
+https://prod-fastly-ap-southeast-1.video.pscp.tv/Transcoding/v1/hls/KaaW5NzTl8jRX0JJGp-mj3ZMbSu27bd8a7aARQ_3ALj5LDDpVOCK3f_YbsTKtOt-fyxo1DXimy3Ysm8EOHc1YQ/non_transcode/us-west-2/periscope-replay-direct-live/master_dynamic_highlatency.m3u8?type=live
 #EXTINF:-1 tvg- group-title="Sports",SKY SPORTS CRICKET 
 https://38q.gcdn.co/WC1/index.m3u8 
 #EXTINF:-1 tvg- group-title="Sports",SKY SPORTS CRICKET 
