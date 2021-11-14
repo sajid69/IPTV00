@@ -2,8 +2,16 @@
 #EXTINF:-1 tvg- group-title="Sports",HOTSTAR 
 https://prod-fastly-ap-southeast-1.video.pscp.tv/Transcoding/v1/hls/vgJ7PvxEkmcqeBUVQSuREQnCZ_-KulnEsj_LYoEUGKBALWqLK933qsjBvrd1x0IZvWBTtyF6DscptpdbWsX50Q/non_transcode/us-west-2/periscope-replay-direct-live/master_dynamic_highlatency.m3u8?type=live
 https://dash.nowhdtime.com.bd/gtvlive/tracks-v1a1/mono.m3u8?token=25ed41b92cb8571dbead3873dd35205a5f42b771-1b00c3faba7293c4094f123afef2677c-1636660237-1636649437
+#EXTINF:-1 tvg- group-title="Sports",SKY SPORTS CRICKET 
+https://38q.gcdn.co/WC1/index.m3u8 
+#EXTINF:-1 tvg- group-title="Sports",SKY SPORTS CRICKET 
+https://38q.gcdn.co/WC8/index.m3u8 
 #EXTINF:-1 tvg- group-title="Sports",STAR SPORTS 1
-https://gtv.banglatv.xyz:2096/bdiptv.stream/LiveSports/playlist.m3u8?token=0558356b27398f74c6bf8c3be801782c27ff83d6c3d8086796083c9e4eae0718a96e35a78db35fc417891f79725c21b88b1da11a64ac33705b66d7f50ff103affd5a58ef48256855a8ba8eae22ac6594c65d6bb7c33e329027c7364d6cc809fa887c8464d715b237c7e50e07a64eff32421d00c4de17b8b06ce5
+https://38q.gcdn.co/WC20/index.m3u8 
+#EXTINF:-1 tvg- group-title="Sports",STAR SPORTS 2
+https://38q.gcdn.co/WC21/index.m3u8 
+#EXTINF:-1 tvg- group-title="Sports",SUPER SPORTS 
+https://38q.gcdn.co/WC25/index.m3u8
 #EXTINF:-1 tvg- group-title="Sports",TEN SPORTS
 http://89.187.162.89/Capital_Music/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg- group-title="Sports",T SPORTS
