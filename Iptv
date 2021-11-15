@@ -1,24 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg- group-title="Sports",HOTSTAR
-https://prod-fastly-ap-southeast-1.video.pscp.tv/Transcoding/v1/hls/KaaW5NzTl8jRX0JJGp-mj3ZMbSu27bd8a7aARQ_3ALj5LDDpVOCK3f_YbsTKtOt-fyxo1DXimy3Ysm8EOHc1YQ/non_transcode/us-west-2/periscope-replay-direct-live/master_dynamic_highlatency.m3u8?type=live
-#EXTINF:-1 tvg- group-title="Sports",SKY SPORTS CRICKET 
-https://38q.gcdn.co/WC1/index.m3u8 
-#EXTINF:-1 tvg- group-title="Sports",SKY SPORTS CRICKET 
-https://38q.gcdn.co/WC8/index.m3u8 
-#EXTINF:-1 tvg- group-title="Sports",STAR SPORTS 1
-https://38q.gcdn.co/WC20/index.m3u8 
-#EXTINF:-1 tvg- group-title="Sports",STAR SPORTS 2
-https://38q.gcdn.co/WC21/index.m3u8 
-#EXTINF:-1 tvg- group-title="Sports",SUPER SPORTS 
-https://38q.gcdn.co/WC25/index.m3u8
-#EXTINF:-1 tvg- group-title="Sports",WILLOW
-https://38q.gcdn.co/WC3/index.m3u8
-#EXTINF:-1 tvg- group-title="Sports",WILLOW XTRA
-https://38q.gcdn.co/WC4/index.m3u8
-#EXTINF:-1 tvg- group-title="Sports",ASTRO CRICKET
-https://38q.gcdn.co/WC5/index.m3u8
-#EXTINF:-1 tvg- group-title="Sports",TEN SPORTS
-http://89.187.162.89/Capital_Music/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg- group-title="Sports",T SPORTS
 http://103.159.4.38:5868/BD-BANGLA-11/index.m3u8
 #EXTINF:-1 tvg- group-title="Sports",T SPORTS
@@ -49,40 +29,26 @@ https://feed.play.mv/live/1009/H92bfaXp9Z/master.m3u8
 http://ent.gcdn.co/S11/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg- group-title="BANGLA",CHANNEL I
 http://103.159.4.38:5868/BD-BANGLA-1/index.m3u8
-#EXTINF:-1 tvg- group-title="BANGLA",CHANNEL I (2)
-https://last.gcdn.co/IND419/index.m3u8
 #EXTINF:-1 tvg- group-title="BANGLA",EKATTOR
 https://live.sonyplex.com/sonyplex/Ekattor-TV.stream/index.m3u8
 #EXTINF:-1 tvg- group-title="BANGLA",EKATTOR
 http://103.106.243.163:8989/ekattor/index.m3u8
 #EXTINF:-1 tvg- group-title="BANGLA",Ekattor tv
 http://103.159.4.38:5868/BD-BANGLA-7/index.m3u8
-#EXTINF:-1 tvg- group-title="BANGLA",Ekattor tv
-https://last.gcdn.co/IND429/index.m3u8
-#EXTINF:-1 tvg- group-title="BANGLA",Somoy Tv
-https://last.gcdn.co/IND418/index.m3u8
 #EXTINF:-1 tvg- group-title="BANGLA",DURONTO TV
 http://89.187.185.89:3232/ban-duronto/index.m3u8
 #EXTINF:-1 tvg- group-title="BANGLA",DURONTO TV
 http://103.106.243.163:8989/duronto-tv/index.m3u8
-#EXTINF:-1 tvg- group-title="BANGLA",NAGORIK TV
-https://last.gcdn.co/IND433/index.m3u8
 #EXTINF:-1 tvg- group-title="BANGLA",CHANNEL 24
 http://103.159.4.38:5868/BD-BANGLA-3/index.m3u8
-#EXTINF:-1 tvg- group-title="BANGLA",CHANNEL 24 (2)
-https://last.gcdn.co/IND431/index.m3u8
 #EXTINF:-1 tvg- group-title="BANGLA",JAMUNA TV
 http://103.159.4.38:5868/BD-BANGLA-4/index.m3u8
-#EXTINF:-1 tvg- group-title="BANGLA",INDEPENDENT TV
-https://last.gcdn.co/IND430/index.m3u8
 #EXTINF:-1 tvg- group-title="BANGLA",ATN BANGLA
 http://103.159.4.38:5868/BD-BANGLA-6/index.m3u8
 #EXTINF:-1 tvg- group-title="BANGLA",BTV
 http://103.159.4.38:5868/BD-BANGLA-8/index.m3u8
 #EXTINF:-1 tvg- group-title="BANGLA",BOISHAKI TV
 http://103.159.4.38:5868/BD-BANGLA-10/index.m3u8
-#EXTINF:-1 tvg- group-title="BANGLA",ASIAN TV
-https://last.gcdn.co/IND451/index.m3u8
 #EXTINF:-1 tvg- group-title="BANGLA",NEWS 24
 http://103.159.4.38:5868/BD-BANGLA-12/index.m3u8
 #EXTINF:-1 tvg- group-title="BANGLA",DBC
@@ -103,8 +69,6 @@ http://103.159.4.38:5868/BD-BANGLA-18/index.m3u8
 https://live.sonyplex.com/sonyplex/N-Tv.stream/index.m3u8
 #EXTINF:-1 tvg- group-title="BANGLA",N TV
 https://a.jsrdn.com/broadcast/22680_3BR3zocwi9/-0800/c.m3u8
-#EXTINF:-1 tvg- group-title="BANGLA",N TV
-https://last.gcdn.co/IND420/index.m3u8
 #EXTINF:-1 tvg- group-title="BANGLA",BTV Chattagram
 http://103.106.2.149:13456/btv_ctg.m3u8
 #EXTINF:-1 tvg- group-title="BANGLA",BTV (BDIX6). 
@@ -113,6 +77,70 @@ http://103.106.2.149:13456/btv.m3u8
 https://stream.cstfctg.com/rtvonline/rtv2021.stream/playlist.m3u8
 #EXTINF:-1 tvg- group-title="BANGLA",Sangsad Bangladesh. 
 http://103.106.2.149:13456/sangsad.m3u8
+#EXTINF:-1 tvg- group-title="LASTGDCN",Dipto tv 
+https://last.gcdn.co/IND450/index.m3u8
+#EXTINF:-1 tvg- group-title="LASTGDCN",Asian tv
+https://last.gcdn.co/IND451/index.m3u8
+#EXTINF:-1 tvg- group-title="LASTGDCN",SA TV
+https://last.gcdn.co/IND449/index.m3u8
+#EXTINF:-1 tvg- group-title="LASTGDCN",Bangla tv
+https://last.gcdn.co/IND448/index.m3u8
+#EXTINF:-1 tvg- group-title="LASTGDCN",Boisaki tv
+https://last.gcdn.co/IND447/index.m3u8
+#EXTINF:-1 tvg- group-title="LASTGDCN",I tv
+https://last.gcdn.co/IND445/index.m3u8
+#EXTINF:-1 tvg- group-title="LASTGDCN",Stv
+https://last.gcdn.co/IND444/index.m3u8
+#EXTINF:-1 tvg- group-title="LASTGDCN",Desh tv
+https://last.gcdn.co/IND443/index.m3u8
+#EXTINF:-1 tvg- group-title="LASTGDCN",GB tv
+https://last.gcdn.co/IND442/index.m3u8
+#EXTINF:-1 tvg- group-title="LASTGDCN",Mohona tv
+https://last.gcdn.co/IND441/index.m3u8
+#EXTINF:-1 tvg- group-title="LASTGDCN",Bijoy tv
+https://last.gcdn.co/IND455/index.m3u8
+#EXTINF:-1 tvg- group-title="LASTGDCN",My tv
+https://last.gcdn.co/IND439/index.m3u8
+#EXTINF:-1 tvg- group-title="LASTGDCN",Atn bangla
+https://last.gcdn.co/IND438/index.m3u8
+#EXTINF:-1 tvg- group-title="LASTGDCN",Atn bangla UK
+https://last.gcdn.co/IND437/index.m3u8
+#EXTINF:-1 tvg- group-title="LASTGDCN",Atn news
+https://last.gcdn.co/IND436/index.m3u8
+#EXTINF:-1 tvg- group-title="LASTGDCN",Channel 9
+https://last.gcdn.co/IND435/index.m3u8
+#EXTINF:-1 tvg- group-title="LASTGDCN",Jamuna tv
+https://last.gcdn.co/IND432/index.m3u8
+#EXTINF:-1 tvg- group-title="LASTGDCN",Channel24
+https://last.gcdn.co/IND431/index.m3u8
+#EXTINF:-1 tvg- group-title="LASTGDCN",Independent 
+https://last.gcdn.co/IND430/index.m3u8
+#EXTINF:-1 tvg- group-title="LASTGDCN",71 tv
+https://last.gcdn.co/IND429/index.m3u8
+#EXTINF:-1 tvg- group-title="LASTGDCN",Dbc
+https://last.gcdn.co/IND428/index.m3u8
+#EXTINF:-1 tvg- group-title="LASTGDCN",Btv
+https://last.gcdn.co/IND427/index.m3u8
+#EXTINF:-1 tvg- group-title="LASTGDCN",Maasranga
+https://last.gcdn.co/IND426/index.m3u8
+#EXTINF:-1 tvg- group-title="LASTGDCN",Gtv
+https://last.gcdn.co/IND425/index.m3u8
+#EXTINF:-1 tvg- group-title="LASTGDCN",Bangla vision
+https://last.gcdn.co/IND423/index.m3u8
+#EXTINF:-1 tvg- group-title="LASTGDCN",Rtv
+https://last.gcdn.co/IND422/index.m3u8
+#EXTINF:-1 tvg- group-title="LASTGDCN",Ntv
+https://last.gcdn.co/IND420/index.m3u8
+#EXTINF:-1 tvg- group-title="LASTGDCN",Chanal i
+https://last.gcdn.co/IND419/index.m3u8
+#EXTINF:-1 tvg- group-title="LASTGDCN",Somoy
+https://last.gcdn.co/IND418/index.m3u8
+#EXTINF:-1 tvg- group-title="LASTGDCN",ISLAMIC
+https://last.gcdn.co/IND412/index.m3u8
+#EXTINF:-1 tvg- group-title="LASTGDCN",Peace tv
+https://last.gcdn.co/IND411/index.m3u8
+#EXTINF:-1 tvg- group-title="LASTGDCN",Atn islam
+https://last.gcdn.co/IND410/index.m3u8
 #EXTINF:-1 tvg- group-title="INDIAN",Sony Aath 
 http://jo123.biz/jweb/m3u8.php?c=Sony_aath&q=600&e=junk.m3u8
 #EXTINF:-1 tvg- group-title="INDIAN",Colors Bangla
