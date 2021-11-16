@@ -1,10 +1,8 @@
 #EXTM3U
-#EXTINF:-1 tvg- group-title="Sports",T SPORTS
-http://103.159.4.38:5868/BD-BANGLA-11/index.m3u8
-#EXTINF:-1 tvg- group-title="Sports",T SPORTS
-http://uknet.ddns.net/905.stream/index.m3u8
-#EXTINF:-1 tvg- group-title="Sports",G TV
-http://103.159.4.38:5868/BD-BANGLA-8/index.m3u8
+#EXTINF:-1 tvg- group-title="Sports",Star Sports 1
+http://uknet.ddns.net/710.stream/index.m3u8
+#EXTINF:-1 tvg- group-title="Sports",Star Sports 2
+http://uknet.ddns.net/715.stream/index.m3u8
 #EXTINF:-1 tvg- group-title="Sports",A Sports
 http://221.120.204.4/LOCKLE-A-SPORTS/index.m3u8
 #EXTINF:-1 tvg- group-title="Sports",Siyatha Tv
